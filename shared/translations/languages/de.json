@@ -124,29 +124,29 @@
     "Confirm DFI Conversion": "Confirmation de la conversion DFI",
     "You are converting": "Vous convertissez",
     "AFTER CONVERSION, YOU WILL HAVE": "APRÈS LA CONVERSION, VOUS AUREZ",
-    "Estimated fee": "Voraussichtliche Gebühr",
-    "CONVERT": "UMWANDELN",
-    "CONVERTING": "UMWANDELN",
-    "Converting DFI": "Konvertieren von DFI",
-    "Converting {{amount}} {{symbolA}} to {{symbolB}}": "Wandle {{amount}} {{symbolA}} in {{symbolB}} um",
-    "TRANSACTION DETAILS": "TRANSAKTIONS-DETAILS",
-    "Transaction type": "Transaktionsart",
-    "Convert": "Umwandeln",
-    "{{token}} to receive": "Verbleibende {{token}}",
-    "CONFIRM TRANSACTION": "TRANSAKTION BESTÄTIGEN"
+    "Estimated fee": "Frais estimés",
+    "CONVERT": "CONVERTIR",
+    "CONVERTING": "CONVERTIR...",
+    "Converting DFI": "Conversion de DFI",
+    "Converting {{amount}} {{symbolA}} to {{symbolB}}": "Conversion de {{amount}} {{symbolA}} en {{symbolB}}",
+    "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
+    "Transaction type": "Type de transaction",
+    "Convert": "Convertir",
+    "{{token}} to receive": "{{token}} restants",
+    "CONFIRM TRANSACTION": "CONFIRMEZ LA TRANSACTION"
   },
   "screens/SettingsNavigator": {
-    "Settings": "Einstellungen"
+    "Settings": "Paramètres"
   },
   "screens/CommunityScreen": {
-    "Community": "Community",
-    "CONNECT WITH THE COMMUNITY": "VERBINDE DICH MIT DER COMMUNITY",
-    "DeFiChain is a community-driven and open project.": "DeFiChain ist ein offenes Gemeinschaftsprojekt.",
-    "The DeFiChain Foundation does not provide direct support.": "Das Gründungskonsortium der DeFiChain stellt keinen direkten Support zur Verfügung.",
-    "Report an issue on Github": "Erstelle ein Thema auf Github",
-    "Frequently Asked Questions": "Häufig gestellte Fragen",
-    "Announcements": "Bekanntgaben",
-    "Official Website": "Offizielle Webseite"
+    "Community": "Communauté",
+    "CONNECT WITH THE COMMUNITY": "SE CONNECTER À LA COMMUNAUTÉ",
+    "DeFiChain is a community-driven and open project.": "DeFiChain is a community-driven and open project.",
+    "The DeFiChain Foundation does not provide direct support.": "La Fondation DeFiChain ne fournit pas de soutien direct.",
+    "Report an issue on Github": "Signaler un problème sur Github",
+    "Frequently Asked Questions": "Foire aux questions",
+    "Announcements": "Annonces",
+    "Official Website": "Site officiel"
   },
   "screens/Settings": {
     "Recovery Words": "Wiederherstellungssatz",
