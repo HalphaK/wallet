@@ -1,18 +1,18 @@
 {
   "screens/WalletNavigator": {
-    "Guidelines": "Richtlinien",
-    "Recovery Words FAQ": "Wiederherstellungssatz FAQ",
-    "Display recovery words": "Zeige Wiederherstellungssatz an",
-    "Verify words": "Bestätige die Worte",
-    "Restore Wallet": "Stelle die Wallet wieder her",
-    "Create a passcode": "Erstelle ein Passwort",
-    "Verify passcode": "Bestätige das Passwort",
-    "Select network": "Netzwerkauswahl",
-    "Cancel": "Abbrechen",
-    "Refresh": "Erneuern",
-    "Refresh recovery words": "Erneuere Wiederherstellungssatz",
-    "You are about to generate a new set of recovery words. Continue?": "Du generierst einen neuen Satz Wiederherstellungswörter. Möchtest du fortfahren?",
-    "Passcode FAQ": "Passwort FAQ"
+    "Guidelines": "Directives",
+    "Recovery Words FAQ": "FAQ Mots de récupération",
+    "Display recovery words": "Afficher les mots de récupération",
+    "Verify words": "Vérifier les mots",
+    "Restore Wallet": "Restaurer le portefeuille",
+    "Create a passcode": "Créer un code de passe",
+    "Verify passcode": "Vérifier le code de passe",
+    "Select network": "Sélection du réseau",
+    "Cancel": "Annuler",
+    "Refresh": "Renouveler",
+    "Refresh recovery words": "Renouveler les mots de récupération",
+    "You are about to generate a new set of recovery words. Continue?": "Vous génèrez un nouveau jeu de mots de récupération. Continuer ?",
+    "Passcode FAQ": "FAQ Code de passe"
   },
   "screens/DexScreen": {
     "Decentralized Exchange": "Dezentrale Börse",
