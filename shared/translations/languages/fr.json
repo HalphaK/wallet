@@ -237,34 +237,34 @@
     "The collateral factor determines the degree of contribution of each collateral token. For example, if a token is accepted at 70% collateral factor, $100 worth of the token would contribute to $70 of collateral value in a vault.": "Der Beleihungsfaktor bestimmt den Grad des Beitrags jedes Beleihungswertes. Wenn beispielsweise ein Token mit einem Besicherungsfaktor von 70 % akzeptiert wird, würden Token im Wert von 100 $ davon zu einem Besicherungswert von 70 $ in einem Vault führen."
   },
   "components/AuctionsFaq": {
-    "Auctions FAQ": "FAQ Auktionen",
-    "Auctions": "Auktionen",
-    "FREQUENTLY ASKED QUESTIONS": "HÄUFIG GESTELLTE FRAGEN",
-    "Auction is an activity where users bid on the collateral in liquidated vaults to recover the vaults' outstanding loans. Liquidation occurs when a vault's collateralization ratio falls below its minimum requirement, upon which the vault collateral will be split into batches of $10,000 USD for auction.": "Bei der Versteigerung bieten die Nutzer auf die Sicherheiten in den Vaults, die in Liquidation sind, um deren ausstehende Darlehen beizutreiben. Die Liquidation erfolgt, wenn die Besicherungsquote eines Vaults unter die Mindestanforderung sinkt. In diesem Fall werden die Sicherheiten der Vaults in Chargen von 10.000USD aufgeteilt und versteigert.",
-    "How is the minimum starting bid determined?": "Wie wird das Mindeststartgebot festgelegt?",
-    "The minimum starting bid is 105% of the batch's outstanding loan value. The additional 5% is included to cover the liquidation penalty, which is incurred upon vault liquidation.": "Das Startgebot liegt bei 105% des ausstehenden Darlehenswerts der Charge. Die zusätzlichen 5% dienen zur Deckung der Liquidationsstrafe, die bei der Liquidation des Vaults anfällt.",
-    "How is the minimum next bid determined?": "Wie wird das nächste Mindestgebot bestimmt?",
-    "The minimum next bid is 1% above the previous bid price.": "Das nächste Mindestgebot liegt 1% über dem vorherigen Gebotspreis."
+    "Auctions FAQ": "FAQ - Enchères",
+    "Auctions": "Enchères",
+    "FREQUENTLY ASKED QUESTIONS": "QUESTIONS FRÉQUEMMENT",
+    "Auction is an activity where users bid on the collateral in liquidated vaults to recover the vaults' outstanding loans. Liquidation occurs when a vault's collateralization ratio falls below its minimum requirement, upon which the vault collateral will be split into batches of $10,000 USD for auction.": "La vente aux enchères est une activité au cours de laquelle les utilisateurs font des offres sur les garanties des Vaults liquidés afin de récupérer les prêts en cours des Vaults. La liquidation a lieu lorsque le ratio de garantie d'un Vault tombe en dessous de son exigence minimale. Les garanties du Vaults sont alors divisées en lots de 10 000 USD pour être vendues aux enchères.",
+    "How is the minimum starting bid determined?": "Comment l'offre de départ minimale est-elle déterminée ?",
+    "The minimum starting bid is 105% of the batch's outstanding loan value. The additional 5% is included to cover the liquidation penalty, which is incurred upon vault liquidation.": "L'offre de départ minimale est de 105% de la valeur du prêt en cours du lot. Les 5% supplémentaires sont inclus pour couvrir la pénalité de liquidation, qui est encourue lors de la liquidation du Vault.",
+    "How is the minimum next bid determined?": "Comment la prochaine offre minimale est-elle déterminée ?",
+    "The minimum next bid is 1% above the previous bid price.": "L'offre minimale suivante est supérieure de 1 % au prix de l'offre précédente."
   },
   "screens/NetworkSelectionScreen": {
-    "NETWORK": "NETZWERK",
-    "Select network": "Netzwerkauswahl"
+    "NETWORK": "RÈSEAU",
+    "Select network": "Sélection du réseau"
   },
   "screens/TransactionsScreen": {
-    "Transactions": "Transaktionen",
-    "No transactions yet": "Noch keine Transaktionen",
-    "Start transacting with your wallet. All UTXO transactions made will be displayed here. Other transaction types are not supported yet.": "Beginne, mit deiner Wallet Transaktionen auszuführen. Alle ausgeführten UTXO Transaktionen werden hier angezeigt. Weitere Transaktionstypen werden noch nicht unterstützt.",
-    "RECEIVE TOKENS": "EMPFANGE COINS",
-    "LOAD MORE": "WEITERE LADEN"
+    "Transactions": "Transactions",
+    "No transactions yet": "Pas encore de transactions",
+    "Start transacting with your wallet. All UTXO transactions made will be displayed here. Other transaction types are not supported yet.": "Commencez à effectuer des transactions avec votre portefeuille. Toutes les transactions UTXO effectuées seront affichées ici. Les autres types de transactions ne sont pas encore supportés.",
+    "RECEIVE TOKENS": "RECEVOIR DES TOKENSS",
+    "LOAD MORE": "CHARGER PLUS"
   },
   "screens/TransactionDetailScreen": {
-    "Type": "Typ",
-    "Amount": "Betrag",
+    "Type": "Type",
+    "Amount": "Montant",
     "Block": "Block",
-    "Date": "Datum"
+    "Date": "Date"
   },
   "screens/TransactionsDetailScreen": {
-    "Transactions": "Transaktionen"
+    "Transactions": "Transactions"
   },
   "screens/TokenDetailScreen": {
     "AMOUNT BALANCE": "Guthabenbetrag",
