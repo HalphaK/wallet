@@ -20,7 +20,7 @@
     "Add liquidity": "Ajout de liquidité",
     "Add Liquidity": "Ajout de liquidité",
     "Confirm Add Liquidity": "Confirmer ajouter liquidité",
-    "Remove Liquidity": "Retirer la liquiditén",
+    "Remove Liquidity": "Retirer la liquidité",
     "Confirm Removal": "Confirmer le retrait",
     "Confirm swap": "Confirmer l'échange",
     "Pick a pool pair below, supply liquidity to power the Decentralized Exchange (DEX), and start earning fees and annual returns of up to 100%. Withdraw at any time.": "Choisissez une paire de pool ci-dessous, fournissez des liquidités pour alimenter l’échange décentralisée (DEX), et commencez à gagner des frais et des rendements annuels allant jusqu'à 100%. Retirer à tout moment.",
@@ -261,7 +261,7 @@
     "Receive {{token}}": "{{token}} empfangen",
     "Convert to {{symbol}}": "Umwandeln in {{symbol}}",
     "Add to liquidity pool": "Zu Liquiditätspool hinzufügen",
-    "Remove liquidity": "Liquidität entfernen",
+    "Remove liquidity": "Retirer la liquidité",
     "Swap with {{token}}": "Tausche gegen {{token}}"
   },
   "screens/TokensVsUtxoScreen": {
@@ -462,20 +462,20 @@
     "TRANSACTION DETAILS": "TRANSAKTIONS-DETAILS",
     "Price": "Preis",
     "Estimated fee": "Voraussichtliche Gebühr",
-    "REMOVE": "ENTFERNEN",
+    "REMOVE": "RETIRER
     "PRICE DETAILS": "PREISDETAILS",
     "{{symbolA}} per {{symbolB}}": "{{symbolA}} pro {{symbolB}}",
     "{{symbolB}} per {{symbolA}}": "{{symbolB}} pro {{symbolA}}",
     "{{tokenA}} price in {{tokenB}}": "{{tokenA}}-Preis in {{tokenB}}",
     "{{tokenB}} price in {{tokenA}}": "{{tokenB}}-Preis in {{tokenA}}",
     "Transaction type": "Transaktions-Typ",
-    "Remove liquidity": "Liquidität entfernen"
+    "Remove liquidity": "Retirer la liquidité"
   },
   "screens/RemoveLiquidity": {
-    "Removing Liquidity": "Entferne Liquidität",
-    "REMOVING": "ENTFERNEN",
-    "Amount to remove": "Zu entfernender Betrag",
-    "Enter an amount ": "Gib einen Betrag an ",
+    "Removing Liquidity": "Retirer la liquiditéy",
+    "REMOVING": "RETIRER",
+    "Amount to remove": "Montant à retirer",
+    "Enter an amount ": "Gib einen Betrag an",
     "YOU ARE REMOVING": "DU ENTFERNST",
     "Price": "Preis",
     "Removing {{amount}} {{symbol}}": "Entferne {{amount}} {{symbol}}",
