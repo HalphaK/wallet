@@ -201,7 +201,7 @@
     "Try Beta features": "Essayez les fonctionnalités de la version bêta"
   },
   "screens/KnowledgeBase": {
-    "LEARN ABOUT": "LERNE ETWAS ÜBER",
+    "LEARN ABOUT": "EN SAVOIR PLUS",
     "Recovery words": "Wiederherstellungssatz",
     "Passcode": "Passwort",
     "UTXO vs Token": "UTXO vs Token",
@@ -472,13 +472,13 @@
     "Remove liquidity": "Retirer la liquidité"
   },
   "screens/RemoveLiquidity": {
-    "Removing Liquidity": "Retirer la liquiditéy",
+    "Removing Liquidity": "Retirer la liquidité",
     "REMOVING": "RETIRER",
     "Amount to remove": "Montant à retirer",
     "Enter an amount ": "Gib einen Betrag an",
     "YOU ARE REMOVING": "DU ENTFERNST",
     "Price": "Preis",
-    "Removing {{amount}} {{symbol}}": "Entferne {{amount}} {{symbol}}",
+    "Removing {{amount}} {{symbol}}": "Retirer {{amount}} {{symbol}}",
     "Review full transaction details in the next screen": "Nächste Ansicht mit detaillierter Gesamtanzeige der Transaktion",
     "PRICE DETAILS": "PREISDETAILS",
     "{{symbolA}} per {{symbolB}}": "{{symbolA}} pro {{symbolB}}",
@@ -486,7 +486,7 @@
     "{{tokenA}} price in {{tokenB}}": "{{tokenA}}-Preis in {{tokenB}}",
     "{{tokenB}} price in {{tokenA}}": "{{tokenB}}-Preis in {{tokenA}}",
     "Drag or enter amount to remove": "Wähle den Betrag oder gib den zu entfernenden Betrag ein",
-    "You are removing": "Du entnimmst",
+    "You are removing": "Vous retirez",
     "from liquidity pool": "aus dem Liquiditätspool"
   },
   "screens/NetworkDetails": {
@@ -876,7 +876,7 @@
     "CONTINUE": "WEITER",
     "BACK": "ZURÜCK",
     "Cancel": "Abbrechen",
-    "Remove": "Entfernen",
+    "Remove": "Supprimer",
     "VAULT DETAILS": "VAULT-DETAILS",
     "COLLATERALS": "SICHERHEITEN",
     "Adding collateral": "Sicherheiten hinzufügen",
