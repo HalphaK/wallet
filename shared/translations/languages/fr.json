@@ -267,42 +267,42 @@
     "Transactions": "Transactions"
   },
   "screens/TokenDetailScreen": {
-    "AMOUNT BALANCE": "Guthabenbetrag",
-    "AVAILABLE OPTIONS": "VERFÜGBARE OPTIONEN",
-    "Send to other wallet": "An andere Wallet senden",
-    "Receive {{token}}": "{{token}} empfangen",
-    "Convert to {{symbol}}": "Umwandeln in {{symbol}}",
-    "Add to liquidity pool": "Zu Liquiditätspool hinzufügen",
-    "Remove liquidity": "Liquidität entfernen",
-    "Swap with {{token}}": "Tausche gegen {{token}}"
+    "AMOUNT BALANCE": "MONTANT SOLDE",
+    "AVAILABLE OPTIONS": "OPTIONS DISPONIBLES",
+    "Send to other wallet": "Envoyer à un autre portefeuille",
+    "Receive {{token}}": "Recevoir {{token}}",
+    "Convert to {{symbol}}": "Convertir en {{symbol}}",
+    "Add to liquidity pool": "Ajouter au pool de liquidité",
+    "Remove liquidity": "Retirer la liquidité",
+    "Swap with {{token}}": "Echanger avec {{token}}"
   },
   "screens/TokensVsUtxoScreen": {
-    "DFI exists in two forms – UTXO and token, which are interchangeable depending on the usage. You can easily convert between the two forms with the app.": "DFI existiert in zwei Formen - UTXO und Token, die je nach Verwendung austauschbar sind. Mit der App kannst du leicht zwischen den beiden Arten wechseln.",
-    "UTXO DFI is the main form DFI and is used for core cryptocurrency purposes like send, receive and fees. DFI tokens are used for DeFi functions such as swaps and liquidity mining.": "UTXO DFI ist das primäre DFI-Format und wird für zentrale Kryptowährungszwecke wie Senden, Empfangen und Gebühren verwendet. DFI-Token werden für DeFi-Funktionen wie Tauschgeschäfte und Liquiditätsmining verwendet.",
-    "Your DFI balance includes both UTXO and tokens.": "Dein DFI-Guthaben umfasst sowohl UTXO als auch Token.",
-    "Core crypto services": "Zentrale Kryptodienste",
-    "Send to other wallets": "An andere Wallets senden",
-    "Receive tokens": "Token empfangen",
-    "Service fees": "Servicegebühr",
-    "DeFi services": "DeFi-Dienste",
-    "Liquidity mining": "Liquiditätsmining",
+    "DFI exists in two forms – UTXO and token, which are interchangeable depending on the usage. You can easily convert between the two forms with the app.": "Le DFI existe sous deux formes - UTXO et token, qui sont interchangeables en fonction de l'utilisation. Vous pouvez facilement convertir les deux formes avec l'application.",
+    "UTXO DFI is the main form DFI and is used for core cryptocurrency purposes like send, receive and fees. DFI tokens are used for DeFi functions such as swaps and liquidity mining.": "UTXO DFI est la forme principale de DFI et est utilisé pour les fonctions de base des crypto-monnaies comme l'envoi, la réception et les frais. Les tokens DFI sont utilisés pour les fonctions DFI telles que les échanges et le minage de liquidités.",
+    "Your DFI balance includes both UTXO and tokens.": "Votre solde DFI comprend les UTXO et les tokens.",
+    "Core crypto services": "Services cryptographiques de base",
+    "Send to other wallets": "Envoyer à d'autres portefeuilles",
+    "Receive tokens": "Recevoir des tokens",
+    "Service fees": "Frais de service",
+    "DeFi services": "Services DeFi",
+    "Liquidity mining": "Le minage de liquidités",
     "Atomic Swaps": "Atomic Swaps"
   },
   "screens/Onboarding": {
-    "CREATE A WALLET": "EINE WALLET ERSTELLEN",
-    "RESTORE WALLET": "WALLET WIEDERHERSTELLEN"
+    "CREATE A WALLET": "CRÉER UN PORTEFEUILLE",
+    "RESTORE WALLET": "RESTAURER LE PORTEFEUILLE"
   },
   "screens/OnboardingCarousel": {
-    "Native DeFi for Bitcoin": "Natives DeFi für Bitcoin",
-    "Take full control": "Übernimm volle Kontrolle",
-    "of your digital assets": "über deine digitalen Vermögenswerte",
-    "Nobody owns your keys and wallet except you.": "Niemand, außer dir, besitzt deine Schlüssel und dein Wallet.",
-    "Unlock the highest": "Erschließe das höchste",
-    "potential of your finances": "Potenzial deiner Finanzen",
-    "Transact, liquidity mine, swap and many more features as a fully-decentralized wallet": "Transferieren, Liquiditätsmining, Tauschgeschäfte und viele weitere Funktionen als vollständig dezentralisierte Wallet",
-    "Earn high yields": "Erwirtschafte hohe Rendite",
-    "of up to 90% with DEX": "von bis zu 90% mit der DEX",
-    "Supply liquidity to BTC, ETH, and many other pool pairs. You can also withdraw anytime!": "Liefere Liquidität für BTC, ETH und viele andere Pool-Paare. Du kannst sie auch jederzeit wieder abheben!"
+    "Native DeFi for Bitcoin": "DeFi natif pour Bitcoin",
+    "Take full control": "Prenez le contrôle total",
+    "of your digital assets": "de vos actifs numériques",
+    "Nobody owns your keys and wallet except you.": "Personne ne possède vos clés et votre portefeuille, sauf vous.",
+    "Unlock the highest": "Libérez le potentiel le plus",
+    "potential of your finances": "élevé de vos finances",
+    "Transact, liquidity mine, swap and many more features as a fully-decentralized wallet": "Transactions, minage de liquidités, échanges et bien d'autres fonctions en tant que portefeuille entièrement décentralisé.",
+    "Earn high yields": "Obtenez des rendements élevés,",
+    "of up to 90% with DEX": "jusqu'à 90 %, avec le DEX",
+    "Supply liquidity to BTC, ETH, and many other pool pairs. You can also withdraw anytime!": "Fournir de la liquidité à BTC, ETH, et de nombreuses autres paires de pool. Vous pouvez également retirer à tout moment !"
   },
   "screens/CreateMnemonicWallet": {
     "Exit screen": "Ansicht verlassen",
