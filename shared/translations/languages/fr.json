@@ -203,24 +203,24 @@
   },
   "screens/KnowledgeBase": {
     "LEARN ABOUT": "EN SAVOIR PLUS",
-    "Recovery words": "Wiederherstellungssatz",
-    "Passcode": "Passwort",
+    "Recovery words": "Mots de récupération",
+    "Passcode": "Code de passe",
     "UTXO vs Token": "UTXO vs Token",
-    "Loans": "Darlehen"
-    "Auctions": "Auctions"
+    "Loans": "Prêts"
+    "Auctions": "Enchères"
   },
   "components/LoansFaq": {
-    "Loans FAQ": "FAQ Darlehen",
-    "Decentralized Loans": "Dezentrale Darlehen",
-    "FREQUENTLY ASKED QUESTIONS": "HÄUFIG GESTELLTE FRAGEN",
-    "The decentralized loan feature allows you to borrow decentralised tokens by using your cryptocurrency holdings as collateral. To start, you must first create a vault and deposit collaterals before you can take a loan.": "Mit der dezentralen Darlehensfunktion kannst du dezentrale Token ausleihen, indem du deine Kryptowährungsbestände als Sicherheiten verwendest. Zunächst musst du einen Vault anlegen und Sicherheiten hinterlegen, bevor du ein Darlehen aufnehmen kannst.",
-    "How is the collateralization ratio calculated?": "Wie wird die Besicherungsquote berechnet?",
-    "The collateralization ratio is calculated by taking the total collateral value deposited in a vault; divided by the amount of loan taken plus total interest, expressed in percentage.": "Die Besicherungsquote wird berechnet, indem der Gesamtwert der in einem Vault hinterlegten Sicherheiten durch den aufgenommenen Darlehensbetrag und die Gesamtzinsen geteilt wird, ausgedrückt in Prozent.",
+    "Loans FAQ": "FAQ - Prêts",
+    "Decentralized Loans": "Prêts décentralisés",
+    "FREQUENTLY ASKED QUESTIONS": "QUESTIONS FRÉQUENTES",
+    "The decentralized loan feature allows you to borrow decentralised tokens by using your cryptocurrency holdings as collateral. To start, you must first create a vault and deposit collaterals before you can take a loan.": "La fonction de prêt décentralisé vous permet d'emprunter des tokens décentralisés en utilisant vos avoirs en crypto-monnaies comme garantie. Pour commencer, vous devez d'abord créer un Vault et déposer des garanties avant de pouvoir contracter un prêt.",
+    "How is the collateralization ratio calculated?": "Comment le ratio de collatéralisation est-il calculé ?",
+    "The collateralization ratio is calculated by taking the total collateral value deposited in a vault; divided by the amount of loan taken plus total interest, expressed in percentage.": "Le ratio de collatéralisation est calculé en prenant la valeur totale de la garantie déposée dans un Vault ; divisée par le montant du prêt contracté plus le total des intérêts, exprimé en pourcentage.",
     "What is the collateralization ratio used for?": "Wozu dient die Besicherungsquote?",
-    "The collateralization ratio determines the state of the vault. A ratio below the minimum collaterization ratio results in liquidation, upon which, a vault's collaterals will be sent for auction.": "Die Besicherungsquote bestimmt den Zustand des Vaults. Liegt der Besicherungsgrad unter der Mindestbesicherungsquote, werden die Sicherheiten des Vaults zur Versteigerung (Auktion) freigegeben.",
-    "Indicators have been included to help visualise the health of your vault, where:": "Um den Zustand deines Vaults zu veranschaulichen, wurden farbliche Indikatoren eingefügt, die wie folgt aussehen:",
-    "Red: 1x – 1.25x above the minimum collateralization ratio": "Rot: 1x - 1,25x über dem Mindestbesicherungsverhältnis",
-    "Yellow: 1.25x – 1.5x the minimum collateralization ratio": "Gelb: 1,25x - 1,5x über dem Mindestbesicherungsverhältnis",
+    "The collateralization ratio determines the state of the vault. A ratio below the minimum collaterization ratio results in liquidation, upon which, a vault's collaterals will be sent for auction.": "Le ratio de collatéralisation détermine l'état du Vault. Un ratio inférieur au ratio de collatéralisation minimum entraîne la liquidation, après quoi les collatéraux du Vault sont mis aux enchères.",
+    "Indicators have been included to help visualise the health of your vault, where:": "Des indicateurs ont été inclus pour aider à visualiser la santé de votre Vault, où :",
+    "Red: 1x – 1.25x above the minimum collateralization ratio": "Rouge : 1x - 1,25x au-dessus du ratio de collatéralisation minimum",
+    "Yellow: 1.25x – 1.5x the minimum collateralization ratio": "Jaune : 1,25x - 1,5x le ratio de collatéralisation minimum",
     "Green: More than 1.5x the minimum collateralization ratio": "Grün: Mehr als das 1,5-fache des Mindestbesicherungsverhältnisses",
     "What does the different status of a vault mean?": "Was bedeutet der unterschiedliche Status eines Vaults?",
     "Active: When a vault has been created but no loan has been taken yet": "Aktiv: Wenn ein Vault angelegt wurde, aber noch kein Darlehen aufgenommen wurde",
