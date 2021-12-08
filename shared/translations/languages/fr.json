@@ -60,6 +60,13 @@
     "Show balances": "Montrer les soldes",
     "Hide balances": "Cacher les soldes",
     "You do not have any other tokens.": "Vous n'avez pas d'autres tokens." 
+    "SWITCH": "WECHSELN"
+  },
+  "screens/AddressControlScreen": {
+    "CREATE WALLET ADDRESS": "CRÉER UNE ADRESSE DE PORTEFEUILLE",
+    "Switch to another wallet": "Passer à un autre portefeuille",
+    "Wallet Address": "Adresse du portefeuille",
+    "ACTIVE": "ACTIF"
   },
   "screens/ReceiveScreen": {
     "Receive": "Recevoir",
