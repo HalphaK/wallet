@@ -312,32 +312,32 @@
     "Supply liquidity to BTC, ETH, and many other pool pairs. You can also withdraw anytime!": "Fournir de la liquidité à BTC, ETH, et de nombreuses autres paires de pool. Vous pouvez également retirer à tout moment !"
   },
   "screens/CreateMnemonicWallet": {
-    "Exit screen": "Ansicht verlassen",
-    "If you leave this screen, you will be provided with a new set of 24 recovery words. Do you want to proceed?": "Wenn du diese Ansicht verlässt, wird ein neuer 24 Worte - Wiederherstellungsschlüssel generiert. Möchtest du fortfahren?",
-    "Cancel": "Abbrechen",
-    "Yes": "Ja",
-    "Take note of the words in their correct order": "Notiere die Worte in der korrekten Reihenfolge",
-    "VERIFY WORDS": "BESTÄTIGE DIE WORTE"
+    "Exit screen": "Quitter l'écran",
+    "If you leave this screen, you will be provided with a new set of 24 recovery words. Do you want to proceed?": "Si vous quittez cet écran, vous obtiendrez une nouvelle série de 24 mots de récupération. Voulez-vous continuer ?",
+    "Cancel": "Annuler",
+    "Yes": "Oui",
+    "Take note of the words in their correct order": "Notez les mots dans leur ordre correct.",
+    "VERIFY WORDS": "VERIFIEZ LES MOTS"
   },
   "screens/Guidelines": {
-    "Creating a wallet": "Erstellen einer Wallet",
-    "Before you create a wallet, you will see your 24 recovery words. Keep them private and secure.": "Bevor du eine Wallet erstellt hast, sieht du zunächst 24 Worte. Behalte sie für dich und bewahre sie sicher auf.",
-    "Learn more about recovery words": "Erfahre mehr über den Wiederherstellungssatz",
-    "I understand it is my responsibility to keep my recovery words secure, and losing them will result in the irrecoverable loss of my wallet funds.": "Ich verstehe, dass die Verantwortung, meinen Wiederherstellungssatz sicher aufzubewahren, bei mir liegt. Der Verlust dieses Schlüssels hat den unwiederbringlichen Verlust der Guthaben auf dieser Wallet zur Folge.",
-    "SHOW MY 24 RECOVERY WORDS": "ZEIGE 24 WIEDERHERSTELLUNGSWORTE AN",
-    "Write the words on paper": "Schreibe die Wörter auf Papier",
-    "Take note of their correct spelling and correct order.": "Achte dabei auf die korrekte Schreibweise und die richtige Reihenfolge.",
-    "Secure them in a safe space": "Verstaue sie an einem sicheren Platz",
-    "Store them offline and in a safe place.": "Bewahre sie offline und an einem geschützten Ort auf.",
-    "Keep them private": "Behalte sie für dich",
-    "Don’t share to anyone. Keep the recovery words only to yourself.": "Teile sie niemandem mit. Nur du solltest den Wiederherstellungsatz kennen."
+    "Creating a wallet": "Créer un portefeuille",
+    "Before you create a wallet, you will see your 24 recovery words. Keep them private and secure.": "Avant de créer un portefeuille, vous verrez vos 24 mots de récupération. Gardez-les privés et sécurisés.",
+    "Learn more about recovery words": "En savoir plus sur les mots de récupération.",
+    "I understand it is my responsibility to keep my recovery words secure, and losing them will result in the irrecoverable loss of my wallet funds.": "Je comprends qu'il est de ma responsabilité de garder mes mots de récupération en sécurité, et que leur perte entraînera la perte irrémédiable des fonds de mon portefeuille.",
+    "SHOW MY 24 RECOVERY WORDS": "MONTRER MES 24 MOTS DE RÉCUPÉRATION",
+    "Write the words on paper": "Écrivez les mots sur papier.",
+    "Take note of their correct spelling and correct order.": "Prenez note de leur orthographe correcte et de leur ordre correct.",
+    "Secure them in a safe space": "Sécurisez-les dans un endroit sûr",
+    "Store them offline and in a safe place.": "Conservez-les hors ligne et dans un endroit sûr.",
+    "Keep them private": "Gardez-les privés.",
+    "Don’t share to anyone. Keep the recovery words only to yourself.": "Ne partagez pas avec qui que ce soit. Gardez les mots de guérison uniquement pour vous."
   },
   "screens/GuidelinesRecoveryWords": {
-    "What are recovery words?": "Was ist der Wiederherstellungssatz (Seed Phrase)?",
-    "Your unique 24 recovery words is a human-readable representation of your wallet private key, generated from a list of 2048 words in the BIP-39 standard.": "Deine einmaligen 24 Worte des Wiederherstellungsschlüssels sind eine visuell lesbare Darstellung des privaten Schlüssels deiner Wallet. Diese wurden aus einer Sammlung von 2048 Worten im BIP-39 Standard erstellt.",
-    "You will need your recovery words to restore your wallet on, for example, a new mobile device. Think of them as keys to your wallet and funds.": "Den Wiederherstellungssatz brauchst du, um z.B. deine Wallet auf einem neuen Mobilgerät wiederherzustellen. Betrachte sie als den Schlüssel zu deiner Wallet und deinen Guthaben darauf.",
-    "If you lose your recovery words, you will not be able to restore your wallet, and you will lose access to your wallet and funds.": "Falls du den Wiederherstellungssatz verlierst, wird es nicht möglich sein, deine Wallet wiederherzustellen und der Zugang zu deiner Wallet und den Guthaben ist nicht mehr möglich.",
-    "It is important that you write down your recovery words legibly and in the correct order. Store your recovery words safely and securely, away from prying eyes. You may want to think about keeping it safe from fire as well.": "Es ist wichtig, dass du die Wörter zur Wiederherstellung deutlich lesbar in der exakten Reihenfolge notierst.  Bewahre den Wiederherstellungssatz sicher auf, vor fremden Blicken geschützt. Ein feuerfester Wandtresor kann hierbei durchaus Sinn machen."
+    "What are recovery words?": "Que sont les mots de récupération ?",
+    "Your unique 24 recovery words is a human-readable representation of your wallet private key, generated from a list of 2048 words in the BIP-39 standard.": "Vos 24 mots uniques de récupération sont une représentation lisible par l'homme de la clé privée de votre portefeuille, générée à partir d'une liste de 2048 mots de la norme BIP-39.",
+    "You will need your recovery words to restore your wallet on, for example, a new mobile device. Think of them as keys to your wallet and funds.": "Vous aurez besoin de vos mots de récupération pour restaurer votre portefeuille sur, par exemple, un nouvel appareil mobile. Considérez-les comme les clés de votre portefeuille et de vos fonds.",
+    "If you lose your recovery words, you will not be able to restore your wallet, and you will lose access to your wallet and funds.": "Si vous perdez vos mots de récupération, vous ne pourrez pas restaurer votre portefeuille, et vous perdrez l'accès à votre portefeuille et à vos fonds.",
+    "It is important that you write down your recovery words legibly and in the correct order. Store your recovery words safely and securely, away from prying eyes. You may want to think about keeping it safe from fire as well.": "Il est important que vous écriviez vos mots de récupération de manière lisible et dans le bon ordre. Conservez vos mots de récupération en toute sécurité, à l'abri des regards indiscrets. Vous pouvez également penser à les mettre à l'abri du feu."
   },
   "screens/PinConfirmation": {
     "It may take a few seconds to securely encrypt your wallet...": "Es kann ein paar Sekunden dauern bis deine Wallet sicher verschlüsselt ist...",
