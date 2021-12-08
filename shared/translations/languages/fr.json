@@ -370,34 +370,34 @@
     "Discard changes?": "Jeter les modifications ?",
     "You have unsaved changes. Are you sure to discard them and leave the screen?": "Vous avez des modifications non sauvegardées. Êtes-vous sûr de vouloir les abandonner et quitter l'écran ?",
     "Error": "Erreur",
-    "The recovery words you have entered are invalid. Please double check and try again.": "Der Wiederherstellungssatz, den du eingegeben hast, ist ungültig. Bitte überprüfe und versuche es erneut.",
-    "Please provide your 24 recovery words to regain access to your wallet.": "Bitte füge die 24 Worte deines Wiederherstellungssatzes ein, um wieder Zugang zu deiner Wallet zu erlangen.",
-    "RESTORE WALLET": "WALLET WIEDERHERSTELLEN",
-    "Enter word #{{order}}": "Wort #{{order}} eingeben",
-    "Cancel": "Abbrechen",
-    "Discard": "Verwerfen",
-    "Required field is missing": "Erforderliches Feld fehlt",
-    "Uppercase, numbers and special characters are not allowed": "Großbuchstaben, Zahlen und Sonderzeichen sind nicht erlaubt."
+    "The recovery words you have entered are invalid. Please double check and try again.": "Les mots de récupération que vous avez saisis ne sont pas valides. Veuillez vérifier et réessayer.",
+    "Please provide your 24 recovery words to regain access to your wallet.": "Veuillez fournir vos 24 mots de récupération pour retrouver l'accès à votre portefeuille.",
+    "RESTORE WALLET": "RESTAURER LE PORTEFEUILLE",
+    "Enter word #{{order}}": "Entrer le mot #{{order}}",
+    "Cancel": "Annuler",
+    "Discard": "Jeter",
+    "Required field is missing": "Le champ requis est manquant",
+    "Uppercase, numbers and special characters are not allowed": "Les majuscules, les chiffres et les caractères spéciaux ne sont pas autorisés."
   },
   "screens/ErrorBoundary": {
-    "Something went wrong": "Etwas ging schief",
-    "The app ran into a problem and could not recover. Please restart your application.": "Die App hatte ein Problem und konnte nicht wiederhergestellt werden. Bitte starte die Anwendung erneut."
+    "Something went wrong": "Il y a eu un problème",
+    "The app ran into a problem and could not recover. Please restart your application.": "L'application a rencontré un problème et n'a pas pu se rétablir. Veuillez redémarrer votre application."
   },
   "screens/ConnectionBoundary": {
-    "Connection problem": "Verbindungsproblem",
-    "There seems to be a problem with the connection. Check your network and try again.": "Ein Problem mit der Internetverbindung ist aufgetreten. Überprüfe deine Datenverbindung und versuche es erneut."
+    "Connection problem": "Problème de connexion",
+    "There seems to be a problem with the connection. Check your network and try again.": "Il semble y avoir un problème de connexion. Vérifiez votre réseau et réessayez."
   },
   "screens/FeatureFlagScreen": {
-    "Loans": "Darlehen",
-    "Browse loan tokens provided by DeFiChain": "Von DeFiChain bereitgestellte Darlehens-Token durchsuchen",
-    "Browse auctions provided by DeFiChain": "Von DeFiChain angebotene Auktionen durchsuchen",
-    "Continue": "Weiter",
-    "Cancel": "Abbrechen",
-    "Enable {{feature}} (Beta)": "Aktiviere {{feature}} (Beta)",
-    "This feature is still in Beta, upon activation you will be expose to some risks. Do you want to continue?": "Diese Funktion ist noch in der Beta-Phase, bei der Aktivierung bist du einigen Risiken ausgesetzt. Möchtest du dennoch fortfahren?",
-    "Beta Features": "Beta-Funktionalitäten",
-    "Beta feature(s) of Light Wallet represent features undergoing final testing before its official release. Experimentation of the feature(s) are encouraged, but caution is advised when using your assets.": "Die Beta-Funktionen der Light Wallet sind Funktionen, die vor der offiziellen Freigabe noch getestet werden. Das Ausprobieren der Funktionen ist erwünscht, aber bei der Verwendung mit realen Vermögenswerte ist Vorsicht geboten.",
-    "Feature is still in Beta. Use at your own risk.": "Diese Funktionalität ist noch im Beta-Stadium. Verwendung auf eigene Gefahr."
+    "Loans": "Prêts",
+    "Browse loan tokens provided by DeFiChain": "Parcourir les tokens de prêt fournis par DeFiChain",
+    "Browse auctions provided by DeFiChain": "Parcourir les enchères fournies par DeFiChain",
+    "Continue": "Continuer",
+    "Cancel": "Annuler",
+    "Enable {{feature}} (Beta)": "Activer {{feature}} (Beta)",
+    "This feature is still in Beta, upon activation you will be expose to some risks. Do you want to continue?": "Cette fonctionnalité est encore en version bêta. Lors de son activation, vous serez exposé à certains risques. Voulez-vous continuer ?",
+    "Beta Features": "Fonctionnalités bêta",
+    "Beta feature(s) of Light Wallet represent features undergoing final testing before its official release. Experimentation of the feature(s) are encouraged, but caution is advised when using your assets.": "Les fonctions bêta de Light Wallet sont des fonctions en cours de test final avant la sortie officielle. L'expérimentation de la ou des fonctionnalités est encouragée, mais la prudence est de mise lors de l'utilisation de vos actifs.",
+    "Feature is still in Beta. Use at your own risk.": "Cette fonction est encore en version bêta. Utilisez-la à vos risques et périls."
   },
   "BottomTabNavigator": {
     "Balances": "Guthaben",
