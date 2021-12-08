@@ -351,25 +351,25 @@
     "{{attemptsRemaining}} attempts remaining": "{{attemptsRemaining}} tentatives restantese"
   },
   "screens/PinCreation": {
-    "Well done! Your wallet is created. Keep your wallet private and secure by creating a passcode for it.": "Erfolgreich! Die Wallet ist erstellt. Schütze sie vor fremden Einblicken und sichere die Wallet, indem du jetzt ein Passwort erstellst.",
-    "Well done! Your wallet is restored. Keep your wallet private and secure by creating a passcode for it.": "Erfolgreich! Deine Wallet ist wiederhergestellt. Schütze sie vor fremden Einblicken und sichere die Wallet, indem du jetzt ein Passwort erstellst.",
-    "Keep your passcode private": "Behalte dein Passwort für dich",
-    "CREATE PASSCODE": "PASSWORT ERSTELLEN",
-    "CHANGE PASSCODE": "PASSWORT ÄNDERN",
-    "Learn more about passcode": "Erfahre mehr über das Passwort"
+    "Well done! Your wallet is created. Keep your wallet private and secure by creating a passcode for it.": "Bravo ! Votre portefeuille est créé. Gardez votre portefeuille privé et sécurisé en créant un code de passe pour celui-ci.",
+    "Well done! Your wallet is restored. Keep your wallet private and secure by creating a passcode for it.": "Bravo ! Votre portefeuille est restauré. Gardez votre portefeuille privé et sécurisé en créant un code de passe pour celui-ci.",
+    "Keep your passcode private": "Gardez votre code de passe secret.",
+    "CREATE PASSCODE": "CRÉER UN CODE DE PASSE",
+    "CHANGE PASSCODE": "CHANGER LE CODE DE PASSE",
+    "Learn more about passcode": "En savoir plus sur le code de passe"
   },
   "screens/VerifyMnemonicWallet": {
-    "Invalid selection. Please ensure you have written down your 24 words.": "Auswahl ungültig. Bitte versichere dich, dass du die 24 Wörter notiert hast.",
-    "Go back": "Zurück",
-    "Verify what you wrote as correct.": "Bestätige die Eingabe.",
-    "Answer the questions to proceed.": "Um fortzufahren, beantworte folgende Fragen.",
-    "VERIFY": "BESTÄTIGE",
-    "What is word ": "Wie lautet das Wort "
+    "Invalid selection. Please ensure you have written down your 24 words.": "Sélection invalide. Veuillez vous assurer que vous avez bien écrit vos 24 mots.",
+    "Go back": "Retourner",
+    "Verify what you wrote as correct.": "Vérifiez que ce que vous avez écrit est correct.",
+    "Answer the questions to proceed.": "Répondez aux questions pour continuer.",
+    "VERIFY": "VÉRIFIER",
+    "What is word ": "Quel est le mot "
   },
   "screens/RestoreWallet": {
-    "Discard changes?": "Veränderungen verwerfen?",
-    "You have unsaved changes. Are you sure to discard them and leave the screen?": "Du hast ungesicherte Eingaben. Möchtest du sie wirklich verwerfen und die Ansicht verlassen?",
-    "Error": "Fehler",
+    "Discard changes?": "Jeter les modifications ?",
+    "You have unsaved changes. Are you sure to discard them and leave the screen?": "Vous avez des modifications non sauvegardées. Êtes-vous sûr de vouloir les abandonner et quitter l'écran ?",
+    "Error": "Erreur",
     "The recovery words you have entered are invalid. Please double check and try again.": "Der Wiederherstellungssatz, den du eingegeben hast, ist ungültig. Bitte überprüfe und versuche es erneut.",
     "Please provide your 24 recovery words to regain access to your wallet.": "Bitte füge die 24 Worte deines Wiederherstellungssatzes ein, um wieder Zugang zu deiner Wallet zu erlangen.",
     "RESTORE WALLET": "WALLET WIEDERHERSTELLEN",
