@@ -53,7 +53,7 @@
     "You have full control over your tokens unlike any other.": "Vous avez un contrôle total sur vos tokens, contrairement à ce qui se passe ailleurs."
   },
   "screens/BalancesScreen": {
-    "Balances": "Balances",
+    "Balances": "Soldes",
     "SEND": "ENVOYER",
     "RECEIVE": "RECEVOIR",
     "PORTFOLIO": "PORTFOLIO",
@@ -400,41 +400,41 @@
     "Feature is still in Beta. Use at your own risk.": "Cette fonction est encore en version bêta. Utilisez-la à vos risques et périls."
   },
   "BottomTabNavigator": {
-    "Balances": "Guthaben",
-    "Liquidity": "Liquidität",
-    "Transactions": "Transaktionen",
-    "Settings": "Einstellungen",
-    "Loans": "Darlehen",
-    "Auctions": "Auktionen"
+    "Balances": "Soldes",
+    "Liquidity": "Liquidité",
+    "Transactions": "Transactions",
+    "Settings": "Paramètres",
+    "Loans": "Prêts",
+    "Auctions": "Enchères"
   },
   "screens/OceanInterface": {
-    "Waiting for confirmation": "Warte auf Bestätigung",
-    "Transaction completed": "Transaktion abgeschlossen",
-    "Sent but not confirmed": "Gesendet aber nicht bestätigt",
-    "Broadcasting...": "Übertrage...",
+    "Waiting for confirmation": "En attente de confirmation",
+    "Transaction completed": "Transaction terminée",
+    "Sent but not confirmed": "Envoyé mais non confirmé",
+    "Broadcasting...": "Diffusion...",
     "OK": "OK",
-    "Insufficient UTXO DFI": "Nicht ausreichend UTXO DFI",
-    "Not enough balance": "Guthaben zu niedrig",
-    "Price is higher than indicated": "Preis höher als angezeigt",
-    "Preparing broadcast": "Übertragung wird vorbereitet",
-    "Waiting for transaction": "Warten auf Transaktion"
+    "Insufficient UTXO DFI": "UTXO DFI insuffisant",
+    "Not enough balance": "Pas assez de solde",
+    "Price is higher than indicated": "Le prix est supérieur à celui indiqué",
+    "Preparing broadcast": "Préparation de la diffusion",
+    "Waiting for transaction": "Attente de la transaction"
   },
   "components/BarCodeScanner": {
-    "Requesting for camera permission": "Kameranutzung erlauben",
-    "You have denied the permission request to use your camera": "Du hast der Kameranutzung nicht zugestimmt"
+    "Requesting for camera permission": "Demande d'autorisation de caméra",
+    "You have denied the permission request to use your camera": "Vous avez refusé la demande d'autorisation d'utiliser votre caméra"
   },
   "components/max": {
-    "HALF": "1/2",
+    "HALF": "DEMI",
     "MAX": "MAX"
   },
   "screens/common": {
-    "CANCEL": "ABBRECHEN"
+    "CANCEL": "ANNULER"
   },
   "screens/ChangePinScreen": {
-    "Create new passcode for your wallet": "Erstelle neues Passwort für deine Wallet"
+    "Create new passcode for your wallet": "Créez un nouveau code de passe pour votre portefeuille"
   },
   "screens/RecoveryWordsScreen": {
-    "Keep your recovery words safe and private": "Sichere deinen Wiederherstellungssatz und bewahre ihn sicher auf"
+    "Keep your recovery words safe and private": "Gardez vos mots de récupération sûrs et privés."
   },
   "screens/AddLiquidity": {
     "Balance": "Guthaben",
