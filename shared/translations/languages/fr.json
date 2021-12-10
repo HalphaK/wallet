@@ -511,31 +511,31 @@
     "{{symbolB}} per {{symbolA}}": "{{symbolB}} pro {{symbolA}}",
     "{{tokenA}} price in {{tokenB}}": "{{tokenA}}-Preis in {{tokenB}}",
     "{{tokenB}} price in {{tokenA}}": "{{tokenB}}-Preis in {{tokenA}}",
-    "Drag or enter amount to remove": "Wähle den Betrag oder gib den zu entfernenden Betrag ein",
-    "You are removing": "Du entnimmst",
-    "from liquidity pool": "aus dem Liquiditätspool"
+    "Drag or enter amount to remove": "Faites glisser le curseur ou entrez le montant à retirer.",
+    "You are removing": "Vous retirez",
+    "from liquidity pool": "du pool de liquidité"
   },
   "screens/NetworkDetails": {
-    "Wallet Network": "Wallet Netzwerk",
-    "Network": "Netzwerk",
-    "Status": "Status",
-    "Connected": "Verbunden",
-    "Disconnected": "Nicht verbunden",
-    "Last synced": "Zuletzt synchronisiert",
-    "Block height": "Blockhöhe",
-    "Total Masternodes": "Anzahl an Masternodes",
-    "YOU ARE CURRENTLY CONNECTED TO": "DU BIST GERADE VERBUNDEN MIT",
-    "NETWORK DETAILS": "NETZWERK DETAILS"
+    "Wallet Network": "Réseau du portefeuille",
+    "Network": "Réseau",
+    "Status": "Statut",
+    "Connected": "Connecté",
+    "Disconnected": "Déconnecté",
+    "Last synced": "Dernière synchro",
+    "Block height": "Hauteur de bloc",
+    "Total Masternodes": "Total des masternodes",
+    "YOU ARE CURRENTLY CONNECTED TO": "VOUS ÊTES ACTUELLEMENT CONNECTÉ À",
+    "NETWORK DETAILS": "DÉTAILS DU RÉSEAU"
   },
   "components/slider": {
-    "None": "Keine",
+    "None": "Aucun",
     "Max": "Max"
   },
   "components/Button": {
     "CONTINUE": "SUIVANT"
   },
   "screens/SlippageTolerance": {
-    "SLIPPAGE TOLERANCE": "SLIPPAGE TOLERANZ"
+    "SLIPPAGE TOLERANCE": "TOLÉRANCE DE SLIPPAGE"
   },
   "screens/PoolSwapScreen": {
     "Swap": "Tausch",
