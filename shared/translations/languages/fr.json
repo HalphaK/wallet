@@ -42,7 +42,7 @@
   },
   "screens/DexGuidelines": {
     "Guidelines": "Directives",
-    "CONTINUE": "CONTINUER",
+    "CONTINUE": "SUIVANT",
     "Decentralized Exchange": "Échange décentralisé",
     "Participate in supplying liquidity to power the DEX (Decentralized Exchange). Use your tokens to earn high returns (of up to 100%).": "Participez à l'apport de liquidités pour alimenter le DEX (Échange décentralisé). Utilisez vos tokens pour obtenir des rendements élevés (jusqu'à 100%).",
     "Add liquidity": "Ajout de liquidité",
@@ -79,7 +79,7 @@
   "screens/SendScreen": {
     "Send": "Envoyer",
     "Estimated fee": "Frais estimés",
-    "CONTINUE": "CONTINUER",
+    "CONTINUE": "SUIVANT",
     "A small UTXO amount (0.1 DFI (UTXO)) is reserved for fees.": "Une petite quantité d'UTXO (0,1 DFI (UTXO)) est réservée aux frais.",
     "SEND": "ENVOYER",
     "Review full transaction details in the next screen": "Examinez tous les détails de la transaction dans l'écran suivant",
@@ -130,6 +130,8 @@
     "After conversion, you will receive": "Après la conversion, vous recevrez",
     "Review full transaction details in the next screen": "Examinez tous les détails de la transaction dans l'écran suivant",
     "Estimated fee": "Frais estimés"
+    "You will have": "Vous aurez",
+    "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION"
   },
   "screens/ConvertConfirmScreen": {
     "Confirm DFI Conversion": "Confirmation de la conversion DFI",
@@ -266,6 +268,8 @@
     "Start transacting with your wallet. All UTXO transactions made will be displayed here. Other transaction types are not supported yet.": "Commencez à effectuer des transactions avec votre portefeuille. Toutes les transactions UTXO effectuées seront affichées ici. Les autres types de transactions ne sont pas encore supportés.",
     "RECEIVE TOKENS": "RECEVOIR DES TOKENS",
     "LOAD MORE": "CHARGER PLUS"
+    "Received": "Reçu",
+    "Sent": "Envoyé"
   },
   "screens/TransactionDetailScreen": {
     "Type": "Type",
@@ -394,7 +398,7 @@
     "Loans": "Prêts",
     "Browse loan tokens provided by DeFiChain": "Parcourir les tokens de prêt fournis par DeFiChain",
     "Browse auctions provided by DeFiChain": "Parcourir les enchères fournies par DeFiChain",
-    "Continue": "Continuer",
+    "Continue": "Suivant",
     "Cancel": "Annuler",
     "Enable {{feature}} (Beta)": "Activer {{feature}} (Beta)",
     "This feature is still in Beta, upon activation you will be expose to some risks. Do you want to continue?": "Cette fonctionnalité est encore en version bêta. Lors de son activation, vous serez exposé à certains risques. Voulez-vous continuer ?",
@@ -528,7 +532,7 @@
     "Max": "Max"
   },
   "components/Button": {
-    "CONTINUE": "WEITER"
+    "CONTINUE": "SUIVANT"
   },
   "screens/SlippageTolerance": {
     "SLIPPAGE TOLERANCE": "SLIPPAGE TOLERANZ"
@@ -539,7 +543,7 @@
     "Available": "Verfügbar",
     "After": "Danach",
     "You have": "Du hast aktuell",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "Enter an amount": "Gib eine Menge ein",
     "Price": "Preis",
     "Estimated to receive": "Geschätzter Betrag",
@@ -561,7 +565,7 @@
     "PRICES": "PREISE",
     "{{tokenA}} price in {{tokenB}}": "{{tokenA}}-Preis in {{tokenB}}",
     "{{tokenB}} price in {{tokenA}}": "{{tokenB}}-Preis in {{tokenA}}",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "Authorize transaction in the next screen to convert": "Gib die Transaktion in der nächsten Ansicht frei, um umzuwandeln",
     "Review and confirm transaction in the next screen": "Überprüfe und bestätige die Transaktion in der nächsten Ansicht",
     "Choose token for swap": "Token für den Tausch wählen",
@@ -574,7 +578,8 @@
     "TRANSACTION DETAILS": "TRANSAKTIONS-DETAILS",
     "PRICE DETAILS": "DÉTAILS DU PRIX",
     "FROM": "VON",
-    "TO": "IN"
+    "TO": "EN"
+    "Total to be swapped": "Total à échanger"
   },
   "screens/ConfirmCompositeSwapScreen": {
     "CONVERTING": "UMWANDELN",
@@ -792,7 +797,7 @@
     "Auction time remaining": "Verbleibende Auktionszeit"
   },
   "components/VaultCard": {
-    "Collaterals:": "Sicherheiten:",
+    "Collaterals:": "Garanties:",
     "None": "Keine",
     "Locked": "Gesperrt",
     "At risk": "Gefährdet",
@@ -816,6 +821,8 @@
     "AT RISK": "GEFÄHRDET",
     "HALTED": "GESTOPPT",
     "IN LIQUIDATION": "IN LIQUIDATION"
+    "EMPTY": "VIDE",
+    "READY": "PRÊT"
   },
   "components/EmptyVault": {
     "No vault created": "Kein Vault erstellt",
@@ -829,7 +836,7 @@
     "Collateralization ratio": "Besicherungsquote",
     "Interest rate": "Jahreszinssatz",
     "APR": "Jahreszins",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "Confirm your vault details in next screen": "Bestätige die Daten deines Vaults in der nächsten Ansicht",
     "Loan scheme of your vault determines the required collateralization of your vault for loans.": "Das Darlehensmodell deines Vaults bestimmt dessen erforderliche Darlehens-Besicherung.",
     "Min. collateralization ratio": "Mind. Besicherungsquote"
@@ -932,7 +939,7 @@
     "Confirm details in next screen": "Bestätige die Details im nächsten Schritt",
     "Select token to add": "Wähle den Token aus, der hinzugefügt werden soll",
     "Are you sure you want to remove collateral token?": "Bist du sicher, dass du den Token  für die Besicherung entfernen möchtest?",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "BACK": "ZURÜCK",
     "Cancel": "Abbrechen",
     "Remove": "Entfernen",
@@ -985,7 +992,7 @@
     "How much do you want to pay?": "Wie viel willst du abzahlen?",
     "Enter an amount": "Gib eine Menge ein",
     "Available": "Verfügbar",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "Review and confirm transaction in the next screen": "Überprüfe und bestätige die Transaktion in der nächsten Ansicht",
     "TRANSACTION DETAILS": "TRANSAKTIONS-DETAILS",
     "Amount to pay": "Zu zahlender Betrag",
@@ -1036,12 +1043,14 @@
     "Total loan + interest": "Gesamtbetrag Darlehen + Zins",
     "Review and confirm transaction in the next screen": "Überprüfe und bestätige die Transaktion in der nächsten Ansicht",
     "SELECT LOAN TOKEN": "DARLEHENSTOKEN AUSWÄHLEN",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "N/A": "K/A",
     "Insufficient vault collateral to borrow this amount": "Unzureichende Vault-Sicherheiten, um diesen Betrag auszuleihen",
     "This amount may place the vault in liquidation": "Dieser Betrag kann den Vault in Liquidation versetzen",
     "Unable to proceed because of errors": "Kann aufgrund eines Fehlers nicht durchgeführt werden",
     "Max loan amount": "Max. Darlehensbetrag"
+    "USD": "USD",
+    "How many {{token}} tokens to borrow?": "Combien de {{token}} souhaitez-vous emprunter ??"
   },
   "screens/ConfirmBorrowLoanTokenScreen": {
     "You are borrowing": "Du leihst dir",
@@ -1071,7 +1080,7 @@
   "screens/EditLoanSchemeScreen": {
     "EDIT LOAN SCHEME OF VAULT": "BELEIHUNGSMODELL DES VAULTS BEARBEITEN",
     "Make sure your collateralization ratio is still above your min. collateralization ratio": "Vergewissere dich, dass deine Besicherungsquote immer noch über deiner Mindestbesicherungsquote liegt",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "Confirm your vault details in next screen": "Bestätige die Daten deines Vaults in der nächsten Ansicht"
   },
   "screens/ConfirmEditLoanSchemeScreen": {
@@ -1098,7 +1107,7 @@
     "How much do you want to add?": "Wie viel möchtest du zusätzlich aufnehmen?",
     "Enter an amount": "Gib eine Menge ein",
     "VAULT IN USE": "AKTIVER VAULT",
-    "CONTINUE": "WEITER",
+    "CONTINUE": "SUIVANT",
     "Review and confirm transaction in the next screen": "Überprüfe und bestätige die Transaktion in der nächsten Ansicht",
     "N/A": "K/A",
     "Max loan amount": "Max. Darlehensbetrag"
@@ -1160,9 +1169,9 @@
   "components/QuickBid": {
     "QUICK BID": "ENCHÈRE RAPIDE",
     "Insufficient amount to place a bid": "Montant insuffisant pour pacer une enchèr",
-    "Quick bid": "Schnelles Gebot",
-    "Place a bid on the auctions with the min. next bid": "Biete auf die Auktionen mit dem nächsten Mindestgebot",
-    "Min. next bid": "Nächstes Mind. Gebot",
-    "Current balance": "Aktueller Stand"
+    "Quick bid": "Enchère rapide",
+    "Place a bid on the auctions with the min. next bid": "Placer une enchère augmentée du plus petit montant possible",
+    "Min. next bid": "Prochaine enchère min.",
+    "Current balance": "Enchère actuelle"
   }
 }
