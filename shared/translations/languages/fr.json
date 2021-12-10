@@ -685,11 +685,11 @@
     "CONVERSION DETAILS": "DÉTAILS DE CONVERSION",
     "Conversion type": "Type de conversion",
     "Amount to convert": "Montant à convertir",
-    "Resulting {{token}}": "Verbleibende {{token}}",
-    "Amount above are prior to transaction": "Die oben genannten Beträge geben die Werte vor der Transaktion wieder"
+    "Resulting {{token}}": "{{token}} restants",
+    "Amount above are prior to transaction": "Les montants ci-dessus sont avant la transaction"
   },
   "components/TransactionResultsRow": {
-    "TRANSACTION RESULTS": "TRANSAKTIONSERGEBNISSE",
+    "TRANSACTION RESULTS": "RÉSULTATS DE LA TRANSACTION",
     "Resulting {{symbol}}": "{{symbole}} restant"
   },
   "screens/LoansScreen": {
@@ -710,17 +710,17 @@
     "Close Vault": "Fermer le Vault"
   },
   "components/tabs": {
-    "Browse loan tokens": "Darlehen durchsuchen",
-    "Your vaults": "Deine Vaults",
-    "Active loan": "Aktuelles Darlehen",
-    "Details": "Details",
-    "Collaterals": "Sicherheiten",
-    "Auctions": "Auktionen",
-    "Loans": "Darlehen",
-    "Browse auctions": "Auktionen durchsuchen",
-    "Manage bids": "Gebote verwalten",
-    "Auctioned collaterals": "Versteigerte Sicherheiten",
-    "Auction details": "Auktionsdetails"
+    "Browse loan tokens": "Parcourir les Tokens de prêt",
+    "Your vaults": "Vos Vaults",
+    "Active loan": "Prêt en cours",
+    "Details": "Détails",
+    "Collaterals": "Garanties",
+    "Auctions": "Enchères",
+    "Loans": "Prêts",
+    "Browse auctions": "Parcourir les enchères",
+    "Manage bids": "Gérer les enchères",
+    "Auctioned collaterals": "Garantie mise en vente",
+    "Auction details": "Détails de l'enchère"
   },
   "components/LoanCard": {
     "Active Price": "Aktueller Preis",
