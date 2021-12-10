@@ -146,7 +146,7 @@
     "Transaction type": "Type de transaction",
     "Convert": "Convertir",
     "{{token}} to receive": "{{token}} restants",
-    "CONFIRM TRANSACTION": "CONFIRMEZ LA TRANSACTION"
+    "CONFIRM TRANSACTION": "VALIDEZ LA TRANSACTION"
   },
   "screens/SettingsNavigator": {
     "Settings": "Paramètres"
@@ -229,7 +229,7 @@
     "How is the collateralization ratio calculated?": "Comment le ratio de collatéralisation est-il calculé ?",
     "The collateralization ratio is calculated by taking the total collateral value deposited in a vault; divided by the amount of loan taken plus total interest, expressed in percentage.": "Le ratio de collatéralisation est calculé en prenant la valeur totale de la garantie déposée dans un Vault ; divisée par le montant du prêt contracté plus le total des intérêts, exprimé en pourcentage.",
     "What is the collateralization ratio used for?": "Wozu dient die Besicherungsquote?",
-    "The collateralization ratio determines the state of the vault. A ratio below the minimum collaterization ratio results in liquidation, upon which, a vault's collaterals will be sent for auction.": "Le ratio de collatéralisation détermine l'état du Vault. Un ratio inférieur au ratio de collatéralisation minimum entraîne la liquidation, après quoi les collatéraux du Vault sont mis aux enchères.",
+    "The collateralization ratio determines the state of the vault. A ratio below the minimum collaterization ratio results in liquidation, upon which, a vault's collaterals will be sent for auction.": "Le ratio de collatéralisation détermine l'état du Vault. Un ratio inférieur au ratio de collatéralisation minimum entraîne la liquidation, après quoi les garanties du Vault sont mis aux enchères.",
     "Indicators have been included to help visualise the health of your vault, where:": "Des indicateurs ont été inclus pour aider à visualiser la santé de votre Vault, où :",
     "Red: 1x – 1.25x above the minimum collateralization ratio": "Rouge : 1x - 1,25x au-dessus du ratio de collatéralisation minimum",
     "Yellow: 1.25x – 1.5x the minimum collateralization ratio": "Jaune : 1,25x - 1,5x le ratio de collatéralisation minimum",
@@ -239,14 +239,14 @@
     "At risk: When the collateralization ratio of a vault is between 1x – 1.5x the minimum collateralization ratio": "Critique : Lorsque le ratio de collatéralisation d'un Vault se situe entre 1x et 1,5x le ratio de collatéralisation minimum.",
     "Healthy: When the collateralization ratio of a vault is more than 1.5x the minimum collateralization ratio": "Sain : Lorsque le ratio de collatéralisation d'un Vault est supérieur à 1,5 fois le ratio de collatéralisation minimum.",
     "In liquidation: When a vault's collateralization ratio falls below the minimum requirement": "En liquidation : Lorsque le ratio de collatéralisation d'un Vault tombe en dessous du minimum requis.",
-    "Halted: When any token in the vault (collateral or loan) has fluctuated more than 30% in the past hour": "Halte : Lorsqu'un token du Vault (collatéral ou prêt) a fluctué de plus de 30 % au cours de la dernière heure.",
+    "Halted: When any token in the vault (collateral or loan) has fluctuated more than 30% in the past hour": "Halte : Lorsqu'un token du Vault (garantie ou prêt) a fluctué de plus de 30 % au cours de la dernière heure.",
     "How are interests calculated for loan?": "Comment les intérêts sont-ils calculés pour les prêts ?",
     "There are 2 types of interests that applies for loans, namely vault interest rate and token interest rate.": "Il existe deux types d'intérêts applicables aux prêts, à savoir le taux d'intérêt du Vault et le taux d'intérêt du token.",
     "The vault interest rate is determined when the vault owner selects the vault scheme, where the higher the minimum collateralization ratio, the lower the vault interest rate.": "Le taux d'intérêt du Vault est déterminé lorsque le propriétaire du Vault sélectionne le schéma du Vault, où plus le ratio de garantie minimum est élevé, plus le taux d'intérêt du Vault est bas.",
     "The token interest rate is applied on specific loan tokens, and can differ from token to token.": "Le taux d'intérêt des tokens est appliqué sur des tokens de prêt spécifiques, et peut différer d'un token à l'autre.",
     "The total interest rate applied on a loan is derived by taking the vault interest rate + token interest rate, and is calculated on a per annum basis.": "Le taux d'intérêt total appliqué sur un prêt est obtenu en prenant le taux d'intérêt du Vault + le taux d'intérêt du token, et est calculé sur une base annuelle.",
     "What is collateral factor?": "Qu'est-ce que le facteur collatéral ?",
-    "The collateral factor determines the degree of contribution of each collateral token. For example, if a token is accepted at 70% collateral factor, $100 worth of the token would contribute to $70 of collateral value in a vault.": "Le facteur collatéral détermine le degré de contribution de chaque token de collatéral. Par exemple, si un token est accepté avec un facteur de garantie de 70 %, une valeur de 100 $ du token contribuera à 70 $ de valeur de garantie dans un Vault."
+    "The collateral factor determines the degree of contribution of each collateral token. For example, if a token is accepted at 70% collateral factor, $100 worth of the token would contribute to $70 of collateral value in a vault.": "Le facteur collatéral détermine le degré de contribution de chaque token de garantie. Par exemple, si un token est accepté avec un facteur de garantie de 70 %, une valeur de 100 $ du token contribuera à 70 $ de valeur de garantie dans un Vault."
   },
   "components/AuctionsFaq": {
     "Auctions FAQ": "FAQ - Enchères",
@@ -567,7 +567,7 @@
     "{{tokenB}} price in {{tokenA}}": "{{tokenB}}-Preis in {{tokenA}}",
     "CONTINUE": "SUIVANT",
     "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante pour convertir",
-    "Review and confirm transaction in the next screen": "Vérifiez et confirmez la transaction à l'étape suivante",
+    "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "Choose token for swap": "Token für den Tausch wählen",
     "Choose token to swap": "Token zum Tauschen wählen",
     "Enter an amount": "Gib einen Betrag an",
@@ -837,7 +837,7 @@
     "Interest rate": "Jahreszinssatz",
     "APR": "Jahreszins",
     "CONTINUE": "SUIVANT",
-    "Confirm your vault details in next screen": "Confirmez les détails de votre Vault à l'étape suivante",
+    "Confirm your vault details in next screen": "Validez les détails de votre Vault à l'étape suivante",
     "Loan scheme of your vault determines the required collateralization of your vault for loans.": "Das Darlehensmodell deines Vaults bestimmt dessen erforderliche Darlehens-Besicherung.",
     "Min. collateralization ratio": "Mind. Besicherungsquote"
   },
@@ -936,7 +936,7 @@
     "ADD TOKEN AS COLLATERAL": "TOKEN ALS BESICHERUNG HINZUFÜGEN",
     "Total collateral (USD)": "Gesamter Besicherungswert (USD)",
     "Vault needs DFI to be in 50% vault share": "Der Vault muss zu 50% aus DFI bestehen",
-    "Confirm details in next screen": "Confirmez les détails à l'étape suivante",
+    "Confirm details in next screen": "Validez les détails à l'étape suivante",
     "Select token to add": "Wähle den Token aus, der hinzugefügt werden soll",
     "Are you sure you want to remove collateral token?": "Bist du sicher, dass du den Token  für die Besicherung entfernen möchtest?",
     "CONTINUE": "SUIVANT",
@@ -993,7 +993,7 @@
     "Enter an amount": "Gib eine Menge ein",
     "Available": "Disponible",
     "CONTINUE": "SUIVANT",
-    "Review and confirm transaction in the next screen": "Vérifiez et confirmez la transaction à l'étape suivante",
+    "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "TRANSACTION DETAILS": "TRANSAKTIONS-DETAILS",
     "Amount to pay": "Zu zahlender Betrag",
     "Remaining loan amount": "Verbleibender Darlehensbetrag",
@@ -1041,7 +1041,7 @@
     "Interest (Vault + Token)": "Zinsen (Vault + Token)",
     "Total interest amount": "Zinsgesamtbetrag",
     "Total loan + interest": "Gesamtbetrag Darlehen + Zins",
-    "Review and confirm transaction in the next screen": "Vérifiez et confirmez la transaction à l'étape suivante",
+    "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "SELECT LOAN TOKEN": "DARLEHENSTOKEN AUSWÄHLEN",
     "CONTINUE": "SUIVANT",
     "N/A": "K/A",
@@ -1081,7 +1081,7 @@
     "EDIT LOAN SCHEME OF VAULT": "BELEIHUNGSMODELL DES VAULTS BEARBEITEN",
     "Make sure your collateralization ratio is still above your min. collateralization ratio": "Vergewissere dich, dass deine Besicherungsquote immer noch über deiner Mindestbesicherungsquote liegt",
     "CONTINUE": "SUIVANT",
-    "Confirm your vault details in next screen": "Confirmez les détails de votre Vault à l'étape suivante"
+    "Confirm your vault details in next screen": "Validez les détails de votre Vault à l'étape suivante"
   },
   "screens/ConfirmEditLoanSchemeScreen": {
     "You are editing scheme of vault": "Du bearbeitest das Vault-Modell",
@@ -1108,7 +1108,7 @@
     "Enter an amount": "Gib eine Menge ein",
     "VAULT IN USE": "AKTIVER VAULT",
     "CONTINUE": "SUIVANT",
-    "Review and confirm transaction in the next screen": "Vérifiez et confirmez la transaction à l'étape suivante",
+    "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "N/A": "K/A",
     "Max loan amount": "Max. Darlehensbetrag"
   },
