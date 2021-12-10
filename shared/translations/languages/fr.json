@@ -194,12 +194,12 @@
     "Touch ID": "Touch ID",
     "device's lock": "Verrouillage de l'appareil",
     "biometric": "biométrique",
-    "Enter passcode to continue": "Entrez le code d'accès pour continuer"
+    "Enter passcode to continue": "Entrez le code de passe pour continuer"
   },
   "screens/AboutScreen": {
     "About": "A propos de l'appli",
-    "Create new passcode": "Créer un nouveau code d'accèst",
-    "Verify passcode": "Vérifier le code d'accès",
+    "Create new passcode": "Créer un nouveau code de passe",
+    "Verify passcode": "Vérifier le code de passe",
     "LINKS": "LIENS",
     "White Paper": "Livre blanc",
     "Privacy Policy": "Politique de confidentialité",
@@ -615,33 +615,33 @@
     "PRICE DETAILS": "DÉTAILS DU PRIX"
   },
   "screens/UnlockWallet": {
-    "Enter Passcode": "Passwort eingeben",
-    "Enter passcode to continue": "Passwort eingeben, um fortzufahren",
-    "Please enter passcode to securely sign your transaction": "Gib bitte das Passwort ein, um die Transaktion freizugeben",
-    "Access granted": "Zugriff gewährt",
-    "You may now proceed": "Du kannst nun fortfahren",
-    "Sign to verify access": "Signieren, um den Zugriff zu bestätigen"
+    "Enter Passcode": "Entrez le code de passe.",
+    "Enter passcode to continue": "Entrez le code de passe pour continuer",
+    "Please enter passcode to securely sign your transaction": "Veuillez entrer votre code de passe pour autoriser votre transaction en toute sécurité.",
+    "Access granted": "Accès accordé",
+    "You may now proceed": "Vous pouvez maintenant procéder",
+    "Sign to verify access": "Autoriser pour vérifier l'accès"
   },
   "screens/TransactionAuthorization": {
-    "Sign Transaction": "Transaktion freigeben",
-    "Signing your transaction...": "Transaktionsfreigabe...",
-    "Transaction authorized": "Transaktion genehmigt",
-    "Please wait while your transaction is being prepared": "Bitte warten, während deine Transaktion vorbereitet wird",
-    "Verifying access": "Zugriff wird verifiziert"
+    "Sign Transaction": "Autoriser la transaction",
+    "Signing your transaction...": "Authorization de votre transaction...",
+    "Transaction authorized": "Transaction autorisée",
+    "Please wait while your transaction is being prepared": "Merci de patienter pendant que votre transaction est en cours de préparation",
+    "Verifying access": "Vérifier l'accès"
   },
   "components/CreateWalletIndicator": {
-    "Recovery": "Stelle wieder her",
-    "Verify": "Bestätige",
-    "Secure": "Sichere",
-    "Restore": "Stelle wieder her"
+    "Recovery": "Restauration",
+    "Verify": "Vérifiez",
+    "Secure": "Sécurisez",
+    "Restore": "Restaurez"
   },
   "screens/LanguageSelectionScreen": {
-    "LANGUAGE": "SPRACHE",
-    "Select language": "Sprache auswählen"
+    "LANGUAGE": "LANGUE",
+    "Select language": "Sélectionner la langue"
   },
   "screens/OnboardingNetworkSelectScreen": {
-    "SELECT NETWORK": "NETZWERKAUSWAHL",
-    "You are about to switch to {{network}}. Do you want to proceed?": "Du wechselst zu {{network}}. Möchtest du fortfahren?"
+    "SELECT NETWORK": "SÉLECTIONNER LE RÉSEAU",
+    "You are about to switch to {{network}}. Do you want to proceed?": "Vous êtes sur le point de passer à {{network}}. Continuer ?"
   },
   "components/RecoveryWordFaq": {
     "What happens if I lose my recovery words?": "Was passiert, wenn ich meinen Wiederherstellungssatz verliere?",
