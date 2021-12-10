@@ -495,7 +495,7 @@
     "{{tokenA}} price in {{tokenB}}": "Prix de {{tokenA}} en {{tokenB}}",
     "{{tokenB}} price in {{tokenA}}": "Prix de {{tokenB}} en {{tokenA}}",
     "Transaction type": "Type de transaction",
-    "Remove liquidity": "Retirer la liquiditén"
+    "Remove liquidity": "Retirer la liquidité"
   },
   "screens/RemoveLiquidity": {
     "Removing Liquidity": "En retirant la liquidité...",
@@ -644,70 +644,70 @@
     "You are about to switch to {{network}}. Do you want to proceed?": "Vous êtes sur le point de passer à {{network}}. Continuer ?"
   },
   "components/RecoveryWordFaq": {
-    "What happens if I lose my recovery words?": "Was passiert, wenn ich meinen Wiederherstellungssatz verliere?",
-    "Once you lose your recovery words, you will not be able to restore your wallet and any funds within it. We encourage you to be responsible with your recovery words.": "Wenn du deinen Wiederherstellungssatz verlierst, kannst du deine Wallet und alle darin enthaltenen Guthaben nicht mehr wiederherstellen. Wir empfehlen dir, verantwortungsvoll mit deinem Wiederherstellungssatz umzugehen.",
-    "Can I use the 24-words from xxx that I created from xxx?": "Kann ich die 24 Wörter aus xxx verwenden, die ich mit xxx erstellt habe?",
-    "You can only reuse the 24-words only if it's created from the Jellyfish ecosystem.\n\nThe compatible clients are DeFiChain Wallet (Android/iOS) and DFX.SWISS (Android/iOS).\n\nHowever, it is highly discouraged that you reuse it. Your 24-words are only as secure as the source computer / device / app that generates it. If your source is comprised, so are your 24-words. Essentially, one set of 24-words per computer / device / app is encouraged.": "Du kannst lediglich 24 Wörter verwenden, die aus der Jellyfish Entwicklerumgebung stammen.\n\nKompatibel sind die DeFiChain Wallet (Android/iOS) und DFX.SWISS (Android/iOS).\n\nAllerdings wird sehr davon abgeraten, die Wörter wiederzuverwenden. Deine 24 Wörter sind nur so sicher wie die Anwendung / das Gerät, die / das sie erzeugt. Grundsätzlich wird pro Computer / Gerät / App jeweils ein eigener Wiederherstellungssatz empfohlen.",
-    "Can someone help me if I lose my recovery words?": "Kann mir jemand helfen, wenn ich meinen Wiederherstellungssatz verliere?",
-    "No. You have sole access to your recovery words. No one is responsible and liable for it except you.": "Nein. Du hast alleinigen Zugriff auf deinen Wiederherstellungssatz. Niemand außer dir ist dafür verantwortlich und haftbar.",
-    "Why is it recommended to keep my recovery words offline and on paper?": "Warum ist es ratsam, meinen Wiederherstellungssatz offline und auf Papier festzuhalten?",
-    "Storing it in digital networks could make it accessible to hackers. It is best to write it in paper and to keep it secure and private.": "Die Speicherung in digitalen Netzen könnte sie für Hacker zugänglich machen. Am besten ist es, sie auf Papier zu schreiben und sie sicher und vor Einblicken geschützt aufzubewahren.",
-    "Recovery words": "Wiederherstellungssatz",
-    "Your unique 24 recovery words is a human-readable representation of your wallet private key, generated from a list of 2048 words in the BIP-39 standard. It prevents any attempts on brute-hacking your wallet’s security.": "Deine einzigartigen 24 Wiederherstellungswörter, die aus einer Liste von 2048 Wörtern im BIP-39-Standard generiert werden, sind eine für Menschen lesbare Darstellung deines privaten Schlüssels. Sie verhindern jegliche Versuche, die Sicherheit deiner Wallet zu knacken, z.B. durch Brute-Force-Attacken.",
-    "FREQUENTLY ASKED QUESTIONS": "HÄUFIG GESTELLTE FRAGEN"
+    "What happens if I lose my recovery words?": "Que se passe-t-il si je perds mes mots de récupération ?",
+    "Once you lose your recovery words, you will not be able to restore your wallet and any funds within it. We encourage you to be responsible with your recovery words.": "Si vous perdez vos mots de récupération, vous ne pourrez plus restaurer votre portefeuille et les fonds qu'il contient. Nous vous encourageons à être responsable avec vos mots de récupération.",
+    "Can I use the 24-words from xxx that I created from xxx?": "Puis-je utiliser les 24 mots de xxx que j'ai créés avec xxx ?",
+    "You can only reuse the 24-words only if it's created from the Jellyfish ecosystem.\n\nThe compatible clients are DeFiChain Wallet (Android/iOS) and DFX.SWISS (Android/iOS).\n\nHowever, it is highly discouraged that you reuse it. Your 24-words are only as secure as the source computer / device / app that generates it. If your source is comprised, so are your 24-words. Essentially, one set of 24-words per computer / device / app is encouraged.": "Vous ne pouvez réutiliser les 24 mots que s'ils sont créés à partir de l'écosystème Jellyfish.\n\nLes clients compatibles sont DeFiChain Wallet (Android/iOS) et DFX.SWISS (Android/iOS).\n\nCependant, il est fortement déconseillé de les réutiliser. Vos 24 mots ne sont aussi sûrs que l'ordinateur/appareil/application source qui les génère. Si votre source est comprise, vos 24 mots le sont aussi. En fait, il est recommandé d'utiliser un seul ensemble de 24 mots par ordinateur, dispositif ou application.",
+    "Can someone help me if I lose my recovery words?": "Quelqu'un peut-il m'aider si je perds mes mots de récupération ?",
+    "No. You have sole access to your recovery words. No one is responsible and liable for it except you.": "Non. Vous êtes le seul à avoir accès à vos mots de récupération. Personne n'en est responsable, à part vous.",
+    "Why is it recommended to keep my recovery words offline and on paper?": "Pourquoi est-il recommandé de conserver mes mots de récupération hors ligne et sur papier ?",
+    "Storing it in digital networks could make it accessible to hackers. It is best to write it in paper and to keep it secure and private.": "Le stockage sur des réseaux numériques pourrait le rendre accessible aux pirates. Il est préférable de le rédiger sur papier et de le conserver en toute sécurité et confidentialité.",
+    "Recovery words": "Mots de récupération",
+    "Your unique 24 recovery words is a human-readable representation of your wallet private key, generated from a list of 2048 words in the BIP-39 standard. It prevents any attempts on brute-hacking your wallet’s security.": "Vos 24 mots de récupération uniques sont une représentation lisible par l'homme de la clé privée de votre portefeuille, générée à partir d'une liste de 2048 mots de la norme BIP-39. Cela empêche toute tentative de piratage brutal de la sécurité de votre portefeuille.",
+    "FREQUENTLY ASKED QUESTIONS": "QUESTIONS FRÉQUENTES"
   },
   "components/PasscodeFaq": {
-    "Passcode": "Passwort",
-    "Your six-digit numeric code passcode, set by you, would be use to authorize all transactions. Keep your passcode private and secure. You are responsible for your own security.": "Dein sechsstelliger numerischer Code, den du selbst festlegst, wird zur Autorisierung aller Transaktionen verwendet. Bewahre dein Passwort vor Einblicken und Zugriff geschützt und sicher auf. Du bist selbst für deine Sicherheit verantwortlich.",
-    "What happens if I forgot my passcode? Can someone help me to retrieve my passcode?": "Was passiert, wenn ich mein Passwort vergessen habe? Kann mir jemand helfen, mein Passwort wiederherzustellen?",
-    "Your passcode is your responsibility, hence no one, aside from you, knows it. It is important that you keep your passcode safe and change it from time to time.": "Du bist für dein Passwort verantwortlich, daher kennt es niemand außer dir. Es ist wichtig, dass du dein Passwort sicher aufbewahrst und es von Zeit zu Zeit änderst.",
-    "Can I change my passcode?": "Kann ich mein Passwort ändern?",
-    "Yes, you can change your passcode from your settings in-app. We recommend changing of passcode regularly for maximum security.": "Ja, du kannst dein Passwort in den Einstellungen in der App ändern. Wir empfehlen, das Passwort regelmäßig zu ändern, um maximale Sicherheit zu gewährleisten.",
-    "Is passcode the same as phone PIN code?": "Ist das Passwort dasselbe wie der Telefon-PIN-Code?",
-    "Your passcode is valid only for DeFiChain wallet.": "Dein Passwort ist nur für die DeFiChain-Wallet gültig.",
-    "FREQUENTLY ASKED QUESTIONS": "HÄUFIG GESTELLTE FRAGEN"
+    "Passcode": "Code de passe",
+    "Your six-digit numeric code passcode, set by you, would be use to authorize all transactions. Keep your passcode private and secure. You are responsible for your own security.": "Votre code numérique à six chiffres, que vous avez défini, sera utilisé pour autoriser toutes les transactions. Gardez ce code de passe privé et sécurisé. Vous êtes responsable de votre propre sécurité.",
+    "What happens if I forgot my passcode? Can someone help me to retrieve my passcode?": "Que se passe-t-il si j'ai oublié mon code de passe ? Quelqu'un peut-il m'aider à retrouver mon code de passe ?",
+    "Your passcode is your responsibility, hence no one, aside from you, knows it. It is important that you keep your passcode safe and change it from time to time.": "Votre code de passe est sous votre responsabilité, donc personne, à part vous, ne le connaît. Il est important que vous gardiez votre code de passe en sécurité et que vous le changiez de temps en temps.",
+    "Can I change my passcode?": "Puis-je changer mon code de passe ?",
+    "Yes, you can change your passcode from your settings in-app. We recommend changing of passcode regularly for maximum security.": "Oui, vous pouvez modifier votre code de passe à partir de vos paramètres dans l'appli. Nous vous recommandons de changer votre code de passe régulièrement pour une sécurité maximale.",
+    "Is passcode the same as phone PIN code?": "Le code de passe est-il le même que le code PIN du téléphone ?",
+    "Your passcode is valid only for DeFiChain wallet.": "Votre code de passe n'est valable que pour le portefeuille DeFiChain.",
+    "FREQUENTLY ASKED QUESTIONS": "QUESTIONS FRÉQUENTES"
   },
   "components/DFIBalanceCard": {
-    "Learn more about UTXO and Token": "Erfahre mehr über UTXO und Token"
+    "Learn more about UTXO and Token": "En savoir plus sur UTXO et Token"
   },
   "components/ReservedDFIInfoText": {
-    "A small UTXO amount (0.1 DFI) is reserved for fees.": "Ein kleiner Betrag an UTXO (0.1 DFI) ist für Gebühren reserviert."
+    "A small UTXO amount (0.1 DFI) is reserved for fees.": "Une petite quantité d'UTXO (0,1 DFI) est réservée aux frais."
   },
   "components/ConversionInfoText": {
-    "Conversion will be required. Your passcode will be asked to authorize both transactions.": "Eine Konvertierung ist erforderlich. Du wirst nach deinem Passwort gefragt, um beide Transaktionen frei zu geben.",
-    "Please wait as we convert tokens for your transaction. Conversions are irreversible.": "Warte bitte, während wir Token für deine Transaktion umwandeln. Konvertierungen sind nicht umkehrbar.",
-    "Send Liquidity Pool tokens only to DeFiChain compatible wallets. Otherwise, sending to other exchanges may result in irreversible loss of funds.": "Sende Liquidity Pool-Token nur an DeFiChain-kompatible Wallets. Andernfalls kann der Versand an andere Tauschbörsen zu einem irreversiblen Verlust von Einlagen führen."
+    "Conversion will be required. Your passcode will be asked to authorize both transactions.": "Une conversion sera requise. Votre code de passe vous sera demandé pour autoriser les deux transactions.",
+    "Please wait as we convert tokens for your transaction. Conversions are irreversible.": "Veuillez patienter pendant que nous convertissons les tokens pour votre transaction. Les conversions sont irréversibles.",
+    "Send Liquidity Pool tokens only to DeFiChain compatible wallets. Otherwise, sending to other exchanges may result in irreversible loss of funds.": "Envoyez les tokens du pool de liquidité uniquement vers des portefeuilles compatibles avec DeFiChain. Sinon, l'envoi vers d'autres échanges peut entraîner une perte irréversible des fonds."
   },
   "components/ConversionTag": {
-    "Conversion required": "Konvertierung erforderlich"
+    "Conversion required": "Conversion requise"
   },
   "components/ConversionBreakdown": {
-    "CONVERSION DETAILS": "UMRECHNUNGSDETAILS",
-    "Conversion type": "Art der Konvertierung",
-    "Amount to convert": "Umzuwandelnder Betrag",
+    "CONVERSION DETAILS": "DÉTAILS DE CONVERSION",
+    "Conversion type": "Type de conversion",
+    "Amount to convert": "Montant à convertir",
     "Resulting {{token}}": "Verbleibende {{token}}",
     "Amount above are prior to transaction": "Die oben genannten Beträge geben die Werte vor der Transaktion wieder"
   },
   "components/TransactionResultsRow": {
     "TRANSACTION RESULTS": "TRANSAKTIONSERGEBNISSE",
-    "Resulting {{symbol}}": "Verbleibende {{symbol}}"
+    "Resulting {{symbol}}": "{{symbole}} restant"
   },
   "screens/LoansScreen": {
-    "Loans": "Darlehen",
-    "Create Vault": "Vault Erstellen",
-    "Confirm Create Vault": "Bestätige Vault-Erstellung",
-    "Vault Detail": "Vault Detailansicht",
-    "Add Collateral": "Sicherheiten Hinzufügen",
-    "Confirm Add Collateral": "Bestätige das Hinzufügen von Sicherheiten",
-    "Edit Collaterals": "Sicherheiten bearbeiten",
-    "Borrow Loan Token": "Darlehenstoken entleihen",
-    "Confirm Borrow Loan Token": "Ausleihen des Darlehenstokens bestätigen",
-    "Edit Loan Scheme": "Darlehensmodell bearbeiten",
-    "Confirm Edit Loan Scheme": "Darlehensmodellbearbeitung bestätigen",
-    "Borrow More": "Mehr ausleihen",
-    "Choose Loan Token to Borrow": "Darlehens-Token zum Ausleihen wählen",
-    "Payback Loan": "Darlehensrückzahlung",
-    "Close Vault": "Vault Schließen"
+    "Loans": "Prêts",
+    "Create Vault": "Créer un Vault",
+    "Confirm Create Vault": "Confirmer la création d'un Vault",
+    "Vault Detail": "Vue détaillée du Vault",
+    "Add Collateral": "Ajouter des garanties",
+    "Confirm Add Collateral": "Confirmez l'ajout de garantie",
+    "Edit Collaterals": "Modifier les garanties",
+    "Borrow Loan Token": "Emprunter un Token de prêt",
+    "Confirm Borrow Loan Token": "Confirmer Emprunter Token de prêt",
+    "Edit Loan Scheme": "Éditer le plan de prêt",
+    "Confirm Edit Loan Scheme": "Confirmer l'édition du programme de prêts",
+    "Borrow More": "Augmenter le prêt",
+    "Choose Loan Token to Borrow": "Choisissez le Token de prêt pour emprunter",
+    "Payback Loan": "Remboursement du prêt",
+    "Close Vault": "Fermer le Vault"
   },
   "components/tabs": {
     "Browse loan tokens": "Darlehen durchsuchen",
