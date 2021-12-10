@@ -538,9 +538,9 @@
     "SLIPPAGE TOLERANCE": "TOLÉRANCE DE SLIPPAGE"
   },
   "screens/PoolSwapScreen": {
-    "Swap": "Tausch",
-    "How much {{token}} do you want to swap?": "Wie viele {{token}} möchtest du umtauschen?",
-    "Available": "Verfügbar",
+    "Swap": "Swap",
+    "How much {{token}} do you want to swap?": "Combien de {{token}} voulez-vous échanger ?",
+    "Available": "Available",
     "After": "Danach",
     "You have": "Du hast aktuell",
     "CONTINUE": "SUIVANT",
