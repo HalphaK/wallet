@@ -723,34 +723,34 @@
     "Auction details": "Détails de l'enchère"
   },
   "components/LoanCard": {
-    "Active Price": "Aktueller Preis",
-    "Next Price": "Nächster Preis",
-    "Interest": "Zins",
-    "Price (USD)": "Preis (USD)"
+    "Active Price": "Prix actif",
+    "Next Price": "Prochain prix",
+    "Interest": "Intérêt",
+    "Price (USD)": "Prix (USD)"
   },
   "components/InfoTextLink": {
-    "Learn more about UTXO and Token": "Erfahre mehr über UTXO und Token",
-    "UTXO vs Token, what is the difference?": "UTXO vs Token, worin liegt der Unterschied?",
-    "Learn more about vaults": "Lerne mehr über Vaults",
-    "Learn more about vaults and loan schemes": "Erfahre mehr über Vaults und Darlehensmodelle",
-    "Learn more about auctions and bidding": "Erfahre mehr über Auktionen und Bieten",
-    "Learn about auctions": "Erfahre mehr über Auktionen"
+    "Learn more about UTXO and Token": "En savoir plus sur UTXO et les Tokens",
+    "UTXO vs Token, what is the difference?": "UTXO vs Token, quelle est la différence ?",
+    "Learn more about vaults": "En savoir plus sur les Vaults",
+    "Learn more about vaults and loan schemes": "En savoir plus sur les Vaults et les systèmes de prêt",
+    "Learn more about auctions and bidding": "En savoir plus sur les ventes aux enchères et les offres d'achat",
+    "Learn about auctions": "En savoir plus sur les ventes aux enchères"
   },
   "components/EmptyBidsScreen": {
-    "No active bids": "Keine aktiven Gebote",
-    "To get started, browse on auctions and place a bid": "Durchsuche Auktionen und gib ein Gebot ab"
+    "No active bids": "Aucune offre active",
+    "To get started, browse on auctions and place a bid": "Pour commencer, parcourez les enchères et faites une offre."
   },
   "components/EmptyAuctions": {
-    "No ongoing auctions": "Keine laufenden Auktionen",
-    "Check again later for any ongoing auctions that you can participate": "Schaue später noch einmal nach, ob es laufende Auktionen gibt, an denen du teilnehmen kannst"
+    "No ongoing auctions": "Pas de ventes aux enchères en cours",
+    "Check again later for any ongoing auctions that you can participate": "Revenez plus tard pour voir si des ventes aux enchères sont en cours et si vous pouvez y participer."
   },
   "screens/AuctionScreen": {
-    "Auctions": "Auktionen",
-    "Place Bid": "Bieten",
-    "Confirm Place Bid": "Gebot bestätigen"
+    "Auctions": "Enchères",
+    "Place Bid": "Placer une enchère",
+    "Confirm Place Bid": "Confirmer Enchére"
   },
   "components/AuctionDetailScreen":{
-    "Collaterals": "Sicherheiten",
+    "Collaterals": "Garanties",
     "Min. next bid": "Nächstes Mind. Gebot",
     "VAULT DETAILS": "VAULT-DETAILS",
     "Vault ID": "Vault-ID",
@@ -1168,7 +1168,7 @@
   },
   "components/QuickBid": {
     "QUICK BID": "ENCHÈRE RAPIDE",
-    "Insufficient amount to place a bid": "Montant insuffisant pour pacer une enchèr",
+    "Insufficient amount to place a bid": "Montant insuffisant pour placer une enchèr",
     "Quick bid": "Enchère rapide",
     "Place a bid on the auctions with the min. next bid": "Placer une enchère augmentée du plus petit montant possible",
     "Min. next bid": "Prochaine enchère min.",
