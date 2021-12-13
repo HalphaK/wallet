@@ -1,29 +1,29 @@
 {
   "screens/WalletNavigator": {
-    "Guidelines": "Directives",
+    "Guidelines": "Instructions",
     "Recovery Words FAQ": "FAQ Mots de récupération",
     "Display recovery words": "Afficher les mots de récupération",
     "Verify words": "Vérifier les mots",
-    "Restore Wallet": "Restaurer le portefeuille",
+    "Restore Wallet": "Restaurer un portefeuille",
     "Create a passcode": "Créer un code de passe",
     "Verify passcode": "Vérifier le code de passe",
     "Select network": "Sélection du réseau",
     "Cancel": "Annuler",
-    "Refresh": "Renouveler",
-    "Refresh recovery words": "Renouveler les mots de récupération",
-    "You are about to generate a new set of recovery words. Continue?": "Vous génèrez un nouveau jeu de mots de récupération. Continuer ?",
-    "Passcode FAQ": "FAQ Code de passe"
+    "Refresh": "Rafraîchir",
+    "Refresh recovery words": "Rafraîchir les mots de récupération",
+    "You are about to generate a new set of recovery words. Continue?": "Vous allez génèrez un nouveau jeu de mots de récupération. Continuer ?",
+    "Passcode FAQ": "FAQ Code confidentiele"
   },
   "screens/DexScreen": {
     "Decentralized Exchange": "Échange décentralisé",
     "ADD LIQUIDITY": "AJOUTER LIQUIDITÉ",
     "Add liquidity": "Ajout de liquidité",
     "Add Liquidity": "Ajout de liquidité",
-    "Confirm Add Liquidity": "Confirmer ajouter liquidité",
-    "Remove Liquidity": "Retirer la liquidité",
+    "Confirm Add Liquidity": "Confirmer ajout de liquidité",
+    "Remove Liquidity": "Retirer liquidité",
     "Confirm Removal": "Valider le retrait",
     "Confirm swap": "Valider l'échange",
-    "Pick a pool pair below, supply liquidity to power the Decentralized Exchange (DEX), and start earning fees and annual returns of up to 100%. Withdraw at any time.": "Choisissez une paire de pool ci-dessous, fournissez des liquidités pour alimenter l’échange décentralisée (DEX), et commencez à gagner des frais et des rendements annuels allant jusqu'à 100%. Retirer à tout moment.",
+    "Pick a pool pair below, supply liquidity to power the Decentralized Exchange (DEX), and start earning fees and annual returns of up to 100%. Withdraw at any time.": "Choisissez une paire de pool ci-dessous, fournissez des liquidités pour alimenter l’échange décentralisée (DEX), et commencez à gagner des commissions et des intérêts annuels allant jusqu'à 100%. Retirer possible à tout moment.",
     "Pooled {{symbol}}": "{{symbol}} du pool",
     "Total pooled {{symbol}}": "Total {{symbol}} du pool",
     "Your pooled {{symbol}}": "Vos {{symbol}} du pool ",
@@ -36,12 +36,12 @@
     "Total liquidity (USD)": "Liquidité totale (USD)",
     "Browse pool pairs": "Parcourir les paires de pools",
     "Your pool pairs": "Vos paires de pools",
-    "Total Value Locked (USD)": "Valeur totale bloquée (USD)",
-    "SWAP": "SWAP",
+    "Total Value Locked (USD)": "Valeur totale bloquée -TVL (USD)",
+    "SWAP": "ÉCHANGE",
     "Swap tokens": "Échange de tokens"
   },
   "screens/DexGuidelines": {
-    "Guidelines": "Directives",
+    "Guidelines": "Instructions",
     "CONTINUE": "SUIVANT",
     "Decentralized Exchange": "Échange décentralisé",
     "Participate in supplying liquidity to power the DEX (Decentralized Exchange). Use your tokens to earn high returns (of up to 100%).": "Participez à l'apport de liquidités pour alimenter le DEX (Échange décentralisé). Utilisez vos tokens pour obtenir des rendements élevés (jusqu'à 100%).",
@@ -60,7 +60,7 @@
     "Show balances": "Montrer les soldes",
     "Hide balances": "Cacher les soldes",
     "You do not have any other tokens.": "Vous n'avez pas d'autres tokens." 
-    "SWITCH": "WECHSELN"
+    "SWITCH": "ÈCHANGER"
   },
   "screens/AddressControlScreen": {
     "CREATE WALLET ADDRESS": "CRÉER UNE ADRESSE DE PORTEFEUILLE",
@@ -70,8 +70,8 @@
   },
   "screens/ReceiveScreen": {
     "Receive": "Recevoir",
-    "Use QR or Wallet Address to receive any DST or DFI": "Utilisez le QR ou l'adresse du portefeuille pour recevoir tout DST ou DFI",
-    "COPIED": "COPIÉ!",
+    "Use QR or Wallet Address to receive any DST or DFI": "Utilisez le QR code ou l'adresse du portefeuille pour recevoir des DST ou DFI",
+    "COPIED": "COPIÉE!",
     "COPY": "COPIER",
     "SHARE": "PARTAGER",
     "WALLET ADDRESS": "ADRESSE DU PORTEFEUILLE"
@@ -86,7 +86,7 @@
     "Paste wallet address here": "Collez l'adresse du portefeuille ici",
     "Where do you want to send?": "Où voulez-vous envoyer ?",
     "How much do you want to send?": "Combien voulez-vous envoyer ?",
-    "Enter an amount": "Donnez un montant",
+    "Enter an amount": "Indiquez un montant",
     "Available": "Disponible",
     "Amount to be converted": "Montant à convertir",
     "Authorize transaction in the next screen to convert": "Autorisez la transaction à l'étape suivante pour convertir",
@@ -107,9 +107,9 @@
     "Estimated fee": "Frais estimés",
     "Remaining balance": "Solde restant",
     "SEND": "ENVOYER",
-    "SENDING": "ENVOYER...",
-    "Sending": "Envoyer {{symbol}}",
-    "Sending {{amount}} {{symbol}}": "Envoyer {{amount}} {{symbol}}",
+    "SENDING": "ENVOI...",
+    "Sending": "Envoi de {{symbol}}",
+    "Sending {{amount}} {{symbol}}": "Envoi de {{amount}} {{symbol}}",
     "CONFIRM TRANSACTION": "CONFIRMER LA TRANSACTION",
     "Convert & send": "Convertir et envoyer"
     "I acknowledge that sending Liquidity Pool tokens to addresses that are not DeFiChain compatible wallets may result in irreversible loss of funds.": "Je reconnais que l'envoi de tokens du pool de liquidité à des adresses qui ne sont pas des portefeuilles compatibles avec DeFiChain peut entraîner une perte irréversible des fonds."
@@ -118,7 +118,7 @@
   },
   "screens/ConvertScreen": {
     "Convert DFI": "Convertir DFI",
-    "Scan recipient QR": "Scanner le QR du destinataireR",
+    "Scan recipient QR": "Scanner le QR code du destinataireR",
     "Balance": "Balance",
     "UTXO vs Token, what is the difference?": "UTXO vs Token, quelle est la différence ?",
     "CONVERT {{symbol}}": "CONVERTIR {{symbol}}",
