@@ -807,7 +807,7 @@
     "Active loans": "Prêts actifs",
     "Total loans (USD)": "Total des prêts (USD)",
     "Total collateral (USD)": "Valeur totale de la garantie (USD)",
-    "Collateral amount": "Höhe der Sicherheiten",
+    "Collateral amount": "Montant de la garantie",
     "Collateralization ratio": "Ratio de garantie",
     "n/a": "s/o",
     "ADD COLLATERAL": "AJOUTER DES GARANTIES",
@@ -1061,7 +1061,7 @@
     "Borrow loan token": "Emprunter un Token de prêt",
     "Convert & borrow loan token": "Convertir et emprunter un token de prêt",
     "Loan tokens to borrow": "Tokens de prêt pour emprunter",
-    "Token interest": "Intérêt du token",
+    "Token interest": "Intérêt du Token",
     "Vault interest": "Intérêt du Vault",
     "Total interest amount": "Montant total des intérêts",
     "Total loan + interest": "Total des prêts + intérêts",
@@ -1070,71 +1070,71 @@
     "Collateral amount (USD)": "Montant de la garantie (USD)",
     "Collateralization ratio": "Ratio de garantie",
     "TRANSACTION RESULTS": "RÉSULTATS DE LA TRANSACTION",
-    "Resulting collateralization": "Resultierende Besicherungsquote",
-    "Borrowing loan token": "Darlehenstoken ausleihen",
-    "Borrowing {{amount}} {{symbol}}": "{{amount}} {{symbol}} ausleihen",
-    "CONFIRM BORROW": "LEIHEN BESTÄTIGEN",
-    "BORROWING": "LEIHEN"
+    "Resulting collateralization": "La garantie résultante",
+    "Borrowing loan token": "Emprunt de token de prêt",
+    "Borrowing {{amount}} {{symbol}}": "Emprunt de {{amount}} {{symbol}}",
+    "CONFIRM BORROW": "CONFIRMER EMPRUNTER",
+    "BORROWING": "EMPRUNTER..."
   },
   "components/BottomSheetVaultList": {
-    "Collateralization ratio": "Besicherungsquote"
+    "Collateralization ratio": "Ratio de garantie"
   },
   "screens/EditLoanSchemeScreen": {
     "EDIT LOAN SCHEME OF VAULT": "MODIFIER LE SCHÉMA DE PRÊTS DU VAULT",
-    "Make sure your collateralization ratio is still above your min. collateralization ratio": "Vergewissere dich, dass deine Besicherungsquote immer noch über deiner Mindestbesicherungsquote liegt",
+    "Make sure your collateralization ratio is still above your min. collateralization ratio": "Assurez-vous que votre ratio de garantie est toujours supérieur à votre ratio de garantie minimum.",
     "CONTINUE": "SUIVANT",
     "Confirm your vault details in next screen": "Validez les détails de votre Vault à l'étape suivante"
   },
   "screens/ConfirmEditLoanSchemeScreen": {
-    "You are editing scheme of vault": "Du bearbeitest das Vault-Modell",
+    "You are editing scheme of vault": "Vous modifiez le schéma du Vault",
     "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
     "Transaction type": "Type de transaction",
-    "Edit loan scheme": "Darlehensmodell bearbeiten",
-    "Prev. minimum collateralization ratio": "Vorherige Mindestbesicherungsquote",
-    "Prev. vault interest (APR)": "Bisheriger Vault-Jahreszins",
-    "New minimum collateralization ratio": "Neue Mindestbesicherungsquote",
-    "New vault interest (APR)": "Neuer Vault-Jahreszins",
-    "CONFIRM EDIT": "BEARBEITEN BESTÄTIGEN",
-    "EDITING": "BEARBEITEN",
-    "CONVERTING": "UMWANDELN",
-    "Updating vault to min. collateralization ratio of {{mincolRatio}}% and interest rate of {{ir}}%": "Aktualisierung des Vaults auf eine Mind. Besicherungsquote von {{percent}} und einen Zinssatz von {{percent}}"
+    "Edit loan scheme": "Éditer le schéma de prêt",
+    "Prev. minimum collateralization ratio": "Ratio de garantie min. précédent",
+    "Prev. vault interest (APR)": "Intérêt du Vault (TAEG) précédent",
+    "New minimum collateralization ratio": "Nouveau ratio de garantie min.",
+    "New vault interest (APR)": "Nouveau intérêt du Vault (TAEG)",
+    "CONFIRM EDIT": "CONFIRMER L'ÉDITION",
+    "EDITING": "ÉDITION",
+    "CONVERTING": "CONVERTIR...",
+    "Updating vault to min. collateralization ratio of {{mincolRatio}}% and interest rate of {{ir}}%": "Mise à jour du Vault avec un ratio de garantie minimum de {{mincolRatio}}% et un taux d'intérêt de {{ir}}%."
   },
   "components/LoanSchemeOptions": {
-    "Min. collateralization ratio": "Mind. Besicherungsquote",
-    "Interest rate": "Zinssatz",
-    "APR": "Jahreszins"
+    "Min. collateralization ratio": "Ratio de garantie min.",
+    "Interest rate": "Taux d'intérêt",
+    "APR": "TAEG"
   },
   "screens/BorrowMoreScreen": {
-    "YOU ARE BORROWING MORE FOR LOAN": "DU STOCKST DEIN DARLEHEN AUF",
-    "How much do you want to add?": "Wie viel möchtest du zusätzlich aufnehmen?",
+    "YOU ARE BORROWING MORE FOR LOAN": "VOUS AUGMENTEZ VOTRE PRÊT",
+    "How much do you want to add?": "Quel montant d'emprunt supplémentaire souhaitez-vous contracter ?",
     "Enter an amount": "Donnez un montant",
-    "VAULT IN USE": "AKTIVER VAULT",
+    "VAULT IN USE": "VAULT EN SERVICE",
     "CONTINUE": "SUIVANT",
     "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "N/A": "S/O",
     "Max loan amount": "Montant max. du prêt"
   },
   "screens/ChooseLoanTokenScreen": {
-    "Search for loans": "Nach Darlehen suchen",
-    "Search for loan token": "Suche nach Darlehenstoken"
+    "Search for loans": "Rechercher des prêts",
+    "Search for loan token": "Rechercher de Token de prêt"
   },
   "components/EmptyCollateral": {
-    "No collaterals": "Keine Sicherheiten",
-    "ADD COLLATERALS": "ADD COLLATERALS",
-    "Add DFI and tokens as collateral to get started with loans.": "Füge DFI und Token als Sicherheiten hinzu, um Darlehen aufnehmen zu können."
+    "No collaterals": "Pas de garanties",
+    "ADD COLLATERALS": "AJOUTER DES GARANTIES",
+    "Add DFI and tokens as collateral to get started with loans.": "Ajoutez des DFI et des Tokens comme garantie pour commencer les prêts."
   },
   "screens/CloseVaultScreen": {
-    "You are closing Vault ID": "Du schließt den Vault mit der ID",
-    "DETAILS": "DATEILS",
-    "Fees to return": "Rückgabegebühr",
-    "Fees to burn": "Gebühren, die verbrannt werden",
-    "Upon closing, this Vault ID will not be usable anymore. Make sure you don’t need anything from this vault before closing.": "Nach dem Schließen wird diese Vault-ID nicht mehr verwendet werden können. Vergewissere dich, dass du nichts aus diesem Vault benötigst, bevor du ihn schließt.",
-    "CONFIRM CLOSE VAULT": "VAULT SCHLIESSEN BESTÄTIGEN",
-    "You are about to close vault {{vaultId}}": "Du bist im Begriff, den Vault {{vaultId}} zu schließen",
-    "CLOSING": "SCHLIESSEN"
+    "You are closing Vault ID": "Vous fermez Vault ID",
+    "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
+    "Fees to return": "Frais de retour",
+    "Fees to burn": "Frais à brûler",
+    "Upon closing, this Vault ID will not be usable anymore. Make sure you don’t need anything from this vault before closing.": "À la fermeture, ce Vault ID ne sera plus utilisable. Assurez-vous que vous n'avez besoin de rien de ce Vault avant de le fermer.",
+    "CONFIRM CLOSE VAULT": "CONFIRMER LA FERMETURE DU VAULT",
+    "You are about to close vault {{vaultId}}": "Vous êtes sur le point de fermer le Vault {{vaultId}}",
+    "CLOSING": "FERMETURE..."
   },
   "components/TokenIconGroup": {
-    "more": "weitere"
+    "more": "d'autres"
   },
   "screens/PlaceBidScreen": {
     "Enter an amount": "Donnez un montant",
@@ -1151,6 +1151,7 @@
     "Collaterals": "Garantie",
     "How much do you want to bid?": "Combien voulez-vous proposer?",
     "The value of the tokens you are placing is considerably higher than the total auction value.": "Le montant des tokens de votre enchère est bien suppérieur à la valeur mise en vente.
+    "Collateral for auction": "Garanties à offrir",
   },
   "screens/ConfirmPlaceBidScreen": {
     "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
@@ -1175,5 +1176,9 @@
     "Place a bid on the auctions with the min. next bid": "Placer une enchère augmentée du plus petit montant possible",
     "Min. next bid": "Prochaine enchère min.",
     "Current balance": "Solde actuelle"
+  },
+    "components/WalletAddressRow": {
+    "Wallet address": "Adresse du portefeuille"
   }
+}
 }
