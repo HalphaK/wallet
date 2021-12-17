@@ -1184,7 +1184,10 @@
     "Min. next bid": "Prochaine enchère min.",
     "Current balance": "Solde actuelle"
   },
-    "components/WalletAddressRow": {
+  "components/WalletAddressRow": {
     "Wallet address": "Adresse du portefeuille"
+  },
+  "components/Announcements": {
+    "VIEW": "VOIR"
   }
 }
