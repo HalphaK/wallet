@@ -1025,6 +1025,7 @@
     "Paying loan": "Rembourser le prêt",
     "Paying {{amount}} {{symbol}}": "Payer {{amount}} {{symbol}}",
     "Confirm Loan Payment": "Confirmer le remboursement du prêt"
+    "Resulting collateralization": "La garantie résultante"
   },
   "components/CollateralizationRatioDisplay": {
     "Collateralization ratio": "Ratio de garantie",
@@ -1047,8 +1048,8 @@
     "Resulting collateralization": "Ratio de garantie résultante",
     "Min. collateralization ratio": "Ratio de garantie min.",
     "Interest (Vault + Token)": "Intérêt (Vault + Token)",
-    "Total interest amount": "Montant total des intérêts",
-    "Total loan + interest": "Total des prêts + intérêts",
+    "Estimated annual interest": "Intérêt annuel estimé",
+    "Total loan + annual interest": "Prêt total + intérêt annuel",
     "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "SELECT LOAN TOKEN": "SELECTIONNER UN TOKEN DE PRÊT",
     "CONTINUE": "SUIVANT",
@@ -1069,8 +1070,8 @@
     "Loan tokens to borrow": "Tokens de prêt pour emprunter",
     "Token interest": "Intérêt du Token",
     "Vault interest": "Intérêt du Vault",
-    "Total interest amount": "Montant total des intérêts",
-    "Total loan + interest": "Total des prêts + intérêts",
+    "Estimated annual interest": "Intérêt annuel estimé",
+    "Total loan + annual interest": "Prêt total + intérêt annuel",
     "VAULT DETAILS": "DÉTAILS DU VAULT",
     "Vault ID": "Vault ID",
     "Collateral amount (USD)": "Montant de la garantie (USD)",
@@ -1186,5 +1187,4 @@
     "components/WalletAddressRow": {
     "Wallet address": "Adresse du portefeuille"
   }
-}
 }
