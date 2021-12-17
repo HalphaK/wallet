@@ -1103,7 +1103,7 @@
     "New vault interest (APR)": "Nouveau intérêt du Vault (TAEG)",
     "CONFIRM EDIT": "CONFIRMER L'ÉDITION",
     "EDITING": "ÉDITION",
-    "CONVERTING": "CONVERTIR...",
+    "CONVERTING": "CONVERSION...",
     "Updating vault to min. collateralization ratio of {{mincolRatio}}% and interest rate of {{ir}}%": "Mise à jour du Vault avec un ratio de garantie minimum de {{mincolRatio}}% et un taux d'intérêt de {{ir}}%."
   },
   "components/LoanSchemeOptions": {
