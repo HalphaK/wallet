@@ -408,7 +408,7 @@
     "Enable {{feature}} (Beta)": "Activer {{feature}} (Beta)",
     "This feature is still in Beta, upon activation you will be expose to some risks. Do you want to continue?": "Cette fonctionnalité est encore en version bêta. Lors de son activation, vous serez exposé à certains risques. Voulez-vous continuer ?",
     "Beta Features": "Fonctionnalités bêta",
-    "Beta feature(s) of Light Wallet represent features undergoing final testing before its official release. Experimentation of the feature(s) are encouraged, but caution is advised when using your assets.": "Les fonctions bêta de Light Wallet sont des fonctions en cours de test final avant la sortie officielle. L'expérimentation de la ou des fonctionnalités est encouragée, mais la prudence est de mise lors de l'utilisation de vos actifs.",
+    "Beta feature(s) of Light Wallet represent features undergoing final testing before its official release. Experimentation of the feature(s) are encouraged, but caution is advised when using your assets.": "Les fonctions bêta du portefeuille léger sont des fonctions en cours de test final avant la sortie officielle. L'expérimentation de la ou des fonctionnalités est encouragée, mais la prudence est de mise lors de l'utilisation de vos actifs.",
     "Feature is still in Beta. Use at your own risk.": "Cette fonction est encore en version bêta. Utilisez-la à vos risques et périls."
   },
   "BottomTabNavigator": {
@@ -426,14 +426,14 @@
     "Broadcasting...": "Envoi...",
     "OK": "OK",
     "Insufficient UTXO DFI": "UTXO DFI insuffisant",
-    "Not enough balance": "Pas assez de solde",
-    "Price is higher than indicated": "Le prix est supérieur à celui indiqué",
-    "Preparing broadcast": "Préparation de la diffusion",
+    "Not enough balance": "Pas assez de fonds",
+    "Price is higher than indicated": "Prix supérieur à celui indiqué",
+    "Preparing broadcast": "Préparation de l'envoi",
     "Waiting for transaction": "Attente de la transaction"
   },
   "components/BarCodeScanner": {
-    "Requesting for camera permission": "Demande d'autorisation de caméra",
-    "You have denied the permission request to use your camera": "Vous avez refusé la demande d'autorisation d'utiliser votre caméra"
+    "Requesting for camera permission": "Demande d'accès à votre caméra",
+    "You have denied the permission request to use your camera": "Vous avez refusé la demande d'accés à votre caméra"
   },
   "components/max": {
     "HALF": "DEMI",
@@ -454,16 +454,16 @@
     "Share of pool": "Part du pool",
     "Pooled": "Dans le pool",
     "Price": "Prix",
-    "Review full transaction details in the next screen": "Examinez tous les détails de la transaction à l'étape suivante",
+    "Review full transaction details in the next screen": "Examinez les détails de la transaction à l'étape suivante",
     "How much {{symbol}} to supply?": "Combien de {symbol}} à fournir ?",
     "Enter an amount": "Donnez un montant",
     "Available": "Disponible",
     "PRICE DETAILS": "DÉTAILS DU PRIX",
-    "{{tokenA}} price per {{tokenB}}": "Prix de {{tokenA}} par {{tokenB}}",
+    "{{tokenA}} price per {{tokenB}}": "Prix en {{tokenA}} par {{tokenB}}",
     "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
-    "Your pooled {{token}}": "Tes {{token}} du pool",
+    "Your pooled {{token}}": "Vos {{token}} du pool",
     "Amount to be converted": "Montant à convertir",
-    "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante pour convertir",
+    "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante",
     "Estimated fee": "Frais estimés",
     "Pooled {{symbol}}": "{{symbol}} du pool"
   },
@@ -480,8 +480,8 @@
     "Pooled {{symbol}}": "{{symbol}} du pool",
     "Adding {{amountA}} {{symbolA}} - {{amountB}} {{symbolB}}": "Ajout de {{amountA}} {{symbolA}} - {{amountB}} {{symbolB}}",
     "PRICE DETAILS": "DÉTAILS DU PRIX",
-    "{{tokenA}} price per {{tokenB}}": "Prix de {{tokenA}} par {{tokenB}}",
-    "Your pooled {{symbol}}": "Tes {{symbol}} du pool",
+    "{{tokenA}} price per {{tokenB}}": "Prix en {{tokenA}} par {{tokenB}}",
+    "Your pooled {{symbol}}": "Vos {{symbol}} du pool",
     "Transaction type": "Type de transaction",
     "Add liquidity": "Ajout de liquidité",
     "Convert & add liquidity": "Convertir et ajouter des liquidités",
@@ -497,25 +497,25 @@
     "PRICE DETAILS": "DÉTAILS DU PRIX",
     "{{symbolA}} per {{symbolB}}": "{{symbolA}} par {{symbolB}}",
     "{{symbolB}} per {{symbolA}}": "{{symbolB}} par {{symbolA}}",
-    "{{tokenA}} price in {{tokenB}}": "Prix de {{tokenA}} en {{tokenB}}",
-    "{{tokenB}} price in {{tokenA}}": "Prix de {{tokenB}} en {{tokenA}}",
+    "{{tokenA}} price in {{tokenB}}": "Prix d'un {{tokenA}} en {{tokenB}}",
+    "{{tokenB}} price in {{tokenA}}": "Prix d'un {{tokenB}} en {{tokenA}}",
     "Transaction type": "Type de transaction",
     "Remove liquidity": "Retirer la liquidité"
   },
   "screens/RemoveLiquidity": {
-    "Removing Liquidity": "En retirant la liquidité...",
-    "REMOVING": "RETIRER",
+    "Removing Liquidity": "Retrait de liquidité...",
+    "REMOVING": "RETRAIT",
     "Amount to remove": "Montant à retirer",
     "Enter an amount ": "Donnez un montant",
     "YOU ARE REMOVING": "VOUS RETIREZ",
     "Price": "Prix",
     "Removing {{amount}} {{symbol}}": "Retrait de {{amount}} {{symbol}}",
-    "Review full transaction details in the next screen": "Examinez tous les détails de la transaction à l'étape suivante.",
+    "Review full transaction details in the next screen": "Examinez les détails de la transaction à l'étape suivante.",
     "PRICE DETAILS": "DÉTAILS DU PRIX",
     "{{symbolA}} per {{symbolB}}": "{{symbolA}} par {{symbolB}}",
     "{{symbolB}} per {{symbolA}}": "{{symbolB}} par {{symbolA}}",
-    "{{tokenA}} price in {{tokenB}}": "Prix de {{tokenA}} en {{tokenB}}",
-    "{{tokenB}} price in {{tokenA}}": "Prix de {{tokenB}} en {{tokenA}}",
+    "{{tokenA}} price in {{tokenB}}": "Prix d'un {{tokenA}} en {{tokenB}}",
+    "{{tokenB}} price in {{tokenA}}": "Prix d'un {{tokenB}} en {{tokenA}}",
     "Drag or enter amount to remove": "Faites glisser le curseur ou entrez le montant à retirer.",
     "You are removing": "Vous retirez",
     "from liquidity pool": "du pool de liquidité"
@@ -553,12 +553,12 @@
     "Price": "Prix",
     "Estimated to receive": "Estimé à recevoir",
     "Balance: ": "Solde: ",
-    "Review full transaction details in the next screen": "Examinez tous les détails de la transaction à l'étape suivante.",
+    "Review full transaction details in the next screen": "Examinez les détails de la transaction à l'étape suivante.",
     "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
     "Estimated fee": "Frais estimés",
-    "{{tokenA}} price per {{tokenB}}": "Prix de {{tokenA}} par {{tokenB}}",
+    "{{tokenA}} price per {{tokenB}}": "Prix en {{tokenA}} par {{tokenB}}",
     "Amount to be converted": "Montant à convertir",
-    "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante pour convertir",
+    "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante",
     "You will receive": "Vous recevrez"
   },
   "screens/CompositeSwapScreen": {
@@ -568,10 +568,10 @@
     "You have": "Vous avez actuellement",
     "Estimated to receive": "Estimé à recevoir",
     "PRICES": "PRIX",
-    "{{tokenA}} price in {{tokenB}}": "Prix de {{tokenA}} en {{tokenB}}",
-    "{{tokenB}} price in {{tokenA}}": "Prix de {{tokenB}} en {{tokenA}}",
+    "{{tokenA}} price in {{tokenB}}": "Prix d'un {{tokenA}} en {{tokenB}}",
+    "{{tokenB}} price in {{tokenA}}": "Prix d'un {{tokenB}} en {{tokenA}}",
     "CONTINUE": "SUIVANT",
-    "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante pour convertir",
+    "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante",
     "Review and confirm transaction in the next screen": "Vérifiez et validez la transaction à l'étape suivante",
     "Choose token for swap": "Choisissez un token pour l'échange",
     "Choose token to swap": "Choisissez le token à échanger",
@@ -587,16 +587,16 @@
     "Total to be swapped": "Total à échanger"
   },
   "screens/ConfirmCompositeSwapScreen": {
-    "CONVERTING": "CONVERTIR...",
+    "CONVERTING": "CONVERSION...",
     "CONFIRM SWAP": "VALIDER L'ÉCHANGE",
-    "SWAPPING": "ÈCHANGER...",
+    "SWAPPING": "ÉCHANGE EN COURS",
     "You are swapping": "Vous échangez",
     "TRANSACTION DETAILS": "DÉTAILS DE LA TRANSACTION",
     "Transaction type": "Type de transaction",
     "Convert & swap": "Convertir et échanger",
     "Swap": "Swap",
     "Swapping Token": "Échange du token",
-    "Swapping {{amountA}} {{symbolA}} to {{amountB}} {{symbolB}}": "Echanger {{amountA}} {{symbolA}} à {{amountB}} {{symbolB}}",
+    "Swapping {{amountA}} {{symbolA}} to {{amountB}} {{symbolB}}": "Echanger {{amountA}} {{symbolA}} contre {{amountB}} {{symbolB}}",
     "Slippage Tolerance": "Tolérance de Slippage",
     "Estimated to receive": "Estimé à recevoir"
   },
@@ -607,14 +607,14 @@
     "Slippage Tolerance": "Tolérance de Slippage",
     "Estimated fee": "Frais estimés",
     "SWAP": "SWAP",
-    "SWAPPING": "ÉCHANGER...",
+    "SWAPPING": "ÉCHANGE EN COURS",
     "Swapping Token": "Échange du token",
-    "Swapping {{amountA}} {{symbolA}} to {{amountB}} {{symbolB}}": "Echanger {{amountA}} {{symboleA}} à {{amountB}} {{symboleB}}",
-    "{{tokenA}} price per {{tokenB}}": "Prix de {{tokenA}} par {{tokenB}}",
+    "Swapping {{amountA}} {{symbolA}} to {{amountB}} {{symbolB}}": "Echanger {{amountA}} {{symboleA}} contre {{amountB}} {{symboleB}}",
+    "{{tokenA}} price per {{tokenB}}": "Prix en {{tokenA}} par {{tokenB}}",
     "{{token}} balance": "{{token}} solde",
     "CONFIRM SWAP": "VALIDER L'ÉCHANGE",
     "Transaction type": "Type de transaction",
-    "Swap": "Swap",
+    "Swap": "Échange",
     "Convert & swap": "Convertir et échanger",
     "Max Price per {{fromToken}}": "Prix max par {{fromToken}}",
     "PRICE DETAILS": "DÉTAILS DU PRIX"
@@ -622,17 +622,17 @@
   "screens/UnlockWallet": {
     "Enter Passcode": "Entrez le code de passe.",
     "Enter passcode to continue": "Entrez le code de passe pour continuer",
-    "Please enter passcode to securely sign your transaction": "Veuillez entrer votre code de passe pour autoriser votre transaction en toute sécurité.",
+    "Please enter passcode to securely sign your transaction": "Veuillez entrer votre code de passe pour autoriser la transaction en toute sécurité.",
     "Access granted": "Accès accordé",
-    "You may now proceed": "Vous pouvez maintenant procéder",
-    "Sign to verify access": "Autoriser pour vérifier l'accès"
+    "You may now proceed": "Vous pouvez maintenant poursuivre",
+    "Sign to verify access": "Approuver pour vérifier l'accès"
   },
   "screens/TransactionAuthorization": {
-    "Sign Transaction": "Autoriser la transaction",
-    "Signing your transaction...": "Authorization de votre transaction...",
+    "Sign Transaction": "Approuver la transaction",
+    "Signing your transaction...": "Autorisation de votre transaction...",
     "Transaction authorized": "Transaction autorisée",
-    "Please wait while your transaction is being prepared": "Merci de patienter pendant que votre transaction est en cours de préparation",
-    "Verifying access": "Vérifier l'accès"
+    "Please wait while your transaction is being prepared": "Merci de patienter pendant la préparation de votre transaction",
+    "Verifying access": "Vérification de l'accès"
   },
   "components/CreateWalletIndicator": {
     "Recovery": "Restauration",
@@ -646,19 +646,19 @@
   },
   "screens/OnboardingNetworkSelectScreen": {
     "SELECT NETWORK": "SÉLECTIONNER LE RÉSEAU",
-    "You are about to switch to {{network}}. Do you want to proceed?": "Vous êtes sur le point de passer à {{network}}. Continuer ?"
+    "You are about to switch to {{network}}. Do you want to proceed?": "Vous êtes sur le point de passer sur le {{network}}. Continuer ?"
   },
   "components/RecoveryWordFaq": {
     "What happens if I lose my recovery words?": "Que se passe-t-il si je perds mes mots de récupération ?",
     "Once you lose your recovery words, you will not be able to restore your wallet and any funds within it. We encourage you to be responsible with your recovery words.": "Si vous perdez vos mots de récupération, vous ne pourrez plus restaurer votre portefeuille et les fonds qu'il contient. Nous vous encourageons à être responsable avec vos mots de récupération.",
     "Can I use the 24-words from xxx that I created from xxx?": "Puis-je utiliser les 24 mots de xxx que j'ai créés avec xxx ?",
-    "You can only reuse the 24-words only if it's created from the Jellyfish ecosystem.\n\nThe compatible clients are DeFiChain Wallet (Android/iOS) and DFX.SWISS (Android/iOS).\n\nHowever, it is highly discouraged that you reuse it. Your 24-words are only as secure as the source computer / device / app that generates it. If your source is comprised, so are your 24-words. Essentially, one set of 24-words per computer / device / app is encouraged.": "Vous ne pouvez réutiliser les 24 mots que s'ils sont créés à partir de l'écosystème Jellyfish.\n\nLes clients compatibles sont DeFiChain Wallet (Android/iOS) et DFX.SWISS (Android/iOS).\n\nCependant, il est fortement déconseillé de les réutiliser. Vos 24 mots ne sont aussi sûrs que l'ordinateur/appareil/application source qui les génère. Si votre source est comprise, vos 24 mots le sont aussi. En fait, il est recommandé d'utiliser un seul ensemble de 24 mots par ordinateur, dispositif ou application.",
+    "You can only reuse the 24-words only if it's created from the Jellyfish ecosystem.\n\nThe compatible clients are DeFiChain Wallet (Android/iOS) and DFX.SWISS (Android/iOS).\n\nHowever, it is highly discouraged that you reuse it. Your 24-words are only as secure as the source computer / device / app that generates it. If your source is comprised, so are your 24-words. Essentially, one set of 24-words per computer / device / app is encouraged.": "Vous ne pouvez réutiliser les 24 mots que s'ils sont créés à partir de l'écosystème Jellyfish.\n\nLes clients compatibles sont DeFiChain Wallet (Android/iOS) et DFX.SWISS (Android/iOS).\n\nCependant, il est fortement déconseillé de les réutiliser. La sûreté de vos 24 mots dépend de celle de l'ordinateur/appareil/application source qui les génère. Si votre source est exposée à un risque, vos 24 mots le sont aussi. En fait, il est recommandé d'utiliser un seul ensemble de 24 mots par ordinateur, dispositif ou application.",
     "Can someone help me if I lose my recovery words?": "Quelqu'un peut-il m'aider si je perds mes mots de récupération ?",
     "No. You have sole access to your recovery words. No one is responsible and liable for it except you.": "Non. Vous êtes le seul à avoir accès à vos mots de récupération. Personne n'en est responsable, à part vous.",
     "Why is it recommended to keep my recovery words offline and on paper?": "Pourquoi est-il recommandé de conserver mes mots de récupération hors ligne et sur papier ?",
-    "Storing it in digital networks could make it accessible to hackers. It is best to write it in paper and to keep it secure and private.": "Le stockage sur des réseaux numériques pourrait le rendre accessible aux pirates. Il est préférable de le rédiger sur papier et de le conserver en toute sécurité et confidentialité.",
+    "Storing it in digital networks could make it accessible to hackers. It is best to write it in paper and to keep it secure and private.": "Le stockage sur des réseaux numériques pourrait les rendre accessibles aux pirates. Il est préférable de les rédiger sur papier et de les conserver en toute sécurité et confidentialité.",
     "Recovery words": "Mots de récupération",
-    "Your unique 24 recovery words is a human-readable representation of your wallet private key, generated from a list of 2048 words in the BIP-39 standard. It prevents any attempts on brute-hacking your wallet’s security.": "Vos 24 mots de récupération uniques sont une représentation lisible par l'homme de la clé privée de votre portefeuille, générée à partir d'une liste de 2048 mots de la norme BIP-39. Cela empêche toute tentative de piratage brutal de la sécurité de votre portefeuille.",
+    "Your unique 24 recovery words is a human-readable representation of your wallet private key, generated from a list of 2048 words in the BIP-39 standard. It prevents any attempts on brute-hacking your wallet’s security.": "Vos 24 mots de récupération uniques sont une représentation lisible par l'homme de la clé privée de votre portefeuille, générée à partir d'une liste de 2048 mots de la norme BIP-39. Cela empêche toute tentative de piratage par force brute de la sécurité de votre portefeuille.",
     "FREQUENTLY ASKED QUESTIONS": "QUESTIONS FRÉQUENTES"
   },
   "components/PasscodeFaq": {
@@ -668,7 +668,7 @@
     "Your passcode is your responsibility, hence no one, aside from you, knows it. It is important that you keep your passcode safe and change it from time to time.": "Votre code de passe est sous votre responsabilité, donc personne, à part vous, ne le connaît. Il est important que vous gardiez votre code de passe en sécurité et que vous le changiez de temps en temps.",
     "Can I change my passcode?": "Puis-je changer mon code de passe ?",
     "Yes, you can change your passcode from your settings in-app. We recommend changing of passcode regularly for maximum security.": "Oui, vous pouvez modifier votre code de passe à partir de vos paramètres dans l'appli. Nous vous recommandons de changer votre code de passe régulièrement pour une sécurité maximale.",
-    "Is passcode the same as phone PIN code?": "Le code de passe est-il le même que le code PIN du téléphone ?",
+    "Is passcode the same as phone PIN code?": "Mon code de passe est-il le même que le code PIN du téléphone ?",
     "Your passcode is valid only for DeFiChain wallet.": "Votre code de passe n'est valable que pour le portefeuille DeFiChain.",
     "FREQUENTLY ASKED QUESTIONS": "QUESTIONS FRÉQUENTES"
   },
@@ -676,7 +676,7 @@
     "Learn more about UTXO and Token": "En savoir plus sur UTXO et Token"
   },
   "components/ReservedDFIInfoText": {
-    "A small UTXO amount (0.1 DFI) is reserved for fees.": "Une petite quantité d'UTXO (0,1 DFI) est réservée aux frais."
+    "A small UTXO amount (0.1 DFI) is reserved for fees.": "Une petite quantité d'UTXO (0,1 DFI) est réservée pour les frais."
   },
   "components/ConversionInfoText": {
     "Conversion will be required. Your passcode will be asked to authorize both transactions.": "Une conversion sera requise. Votre code de passe vous sera demandé pour autoriser les deux transactions.",
@@ -691,11 +691,11 @@
     "Conversion type": "Type de conversion",
     "Amount to convert": "Montant à convertir",
     "Resulting {{token}}": "{{token}} restants",
-    "Amount above are prior to transaction": "Les montants ci-dessus sont avant la transaction"
+    "Amount above are prior to transaction": "Les montants ci-dessus sont antérieurs à la transaction"
   },
   "components/TransactionResultsRow": {
     "TRANSACTION RESULTS": "RÉSULTATS DE LA TRANSACTION",
-    "Resulting {{symbol}}": "{{symbole}} restant"
+    "Resulting {{symbol}}": "{{symbole}} restants"
   },
   "screens/LoansScreen": {
     "Loans": "Prêts",
