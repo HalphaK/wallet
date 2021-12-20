@@ -120,7 +120,6 @@
     "Convert DFI": "Convertir DFI",
     "Scan recipient QR": "Scanner le QR code du destinataireR",
     "Balance": "Balance",
-    "UTXO vs Token, what is the difference?": "UTXO vs Token, quelle est la différence ?",
     "CONVERT {{symbol}}": "CONVERTIR {{symbol}}",
     "TO {{symbol}}": "EN {{symbol}}",
     "A small UTXO amount (0.1 DFI (UTXO)) is reserved for fees.": "Une petite quantité d'UTXO (0,1 DFI (UTXO)) est réservée aux frais.",
@@ -559,7 +558,6 @@
     "{{tokenA}} price per {{tokenB}}": "Prix en {{tokenA}} par {{tokenB}}",
     "Amount to be converted": "Montant à convertir",
     "Authorize transaction in the next screen to convert": "Autoriser la transaction à l'étape suivante",
-    "You will receive": "Vous recevrez"
   },
   "screens/CompositeSwapScreen": {
     "Swap tokens": "Échange de tokens",
